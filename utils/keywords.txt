@@ -1,0 +1,35 @@
+keyword_map = {
+    "highpass_filter": ["high-pass", "highpass", "remove drift"],
+    "lowpass_filter": ["low-pass", "lowpass"],
+    "bandpass_filter": ["band-pass", "bandpass"],
+    "notch_filter": ["notch", "line noise", "cleanline", "bandstop"],
+    "downsample": ["downsample", "resample"],
+
+    "bad_channel_detection": ["bad channel", "noisy channel", "remove channels", "interpolation", "impedance"],
+    "epoching": ["epoch", "segmentation", "trial onset"],
+
+    "artifact_rejection": ["clean_artifacts", "artifact rejection", "remove segments", "remove artifacts", "visual inspection", "threshold", "manual"],
+    "ASR": ["ASR", "artifact subspace reconstruction"],
+    "re_reference": ["re-reference", "average reference", "linked earlobe", "common average", "AR", "referenced to", "FCz", "A1", "A2"],
+
+    "ICA": ["ICA", "independent component analysis", "runica", "fastica", "infomax", "amica", "extended ICA", "decomposition", "eica", "bss"],
+    "ICA_rejection": ["exclude component", "reject component", "bad ic", "remove IC", "ICLabel", "manual ICA", "ADJUST", "nonbrain component"],
+
+    "dipole_fitting": ["dipfit", "dipole", "scalp model", "bem", "model source", "localize", "mni", "talairach"],
+    "clustering": ["k-means", "clustering", "group clustering", "cluster analysis"],
+    "normalization": ["amplitude normalization", "z-transform", "normalize", "time normalization"],
+    "baseline_correction": ["baseline correction", "baseline-corrected"],
+
+    "PSD": ["PSD: Yes"],
+    "ERSP": ["ERSP: Yes"],
+    "CMC": ["Corticomuscular coherence: Yes"],
+    "ERD": ["erd", "event-related desynchronization"],
+}
+
+stage_map = {
+    "Pre ICA - Signal Cleaning": ["highpass_filter", "lowpass_filter", "bandpass_filter", "notch_filter", "downsample"],
+    "Pre ICA - Data Preprocessing": ["bad_channel_detection", "epoching", "artifact_rejection", "ASR", "re_reference"],
+    "ICA": ["ICA", "ICA_rejection"],
+    "Post ICA": ["dipole_fitting", "clustering", "normalization",  "baseline_correction"],
+    "Outcome": ["PSD", "ERSP", "CMC", "ERD"]
+}
