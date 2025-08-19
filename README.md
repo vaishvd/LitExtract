@@ -13,12 +13,13 @@ The [`scripts`](scripts) folder contains codes to retreive and filter articles f
 graph TD;
   A[retrieve_articles.py] -->|Fetches articles relevant to keywords from PubMed| B[filter_researcharticles.py];
   B -->|Filters research articles| C[extractmethods.py];
-  C -->|Extracts methodology sections
+  C -->|Extracts methodology sections| D[methods.txt];
 
 %% Styling for better visualization %%
   style A fill:#f9ebae,stroke:#333,stroke-width:2px;
   style B fill:#b3e5fc,stroke:#333,stroke-width:2px;
   style C fill:#c8e6c9,stroke:#333,stroke-width:2px;
+  style D fill:#ffccbc,stroke:#333,stroke-width:2px;
 ```
 
 ## Prompting
