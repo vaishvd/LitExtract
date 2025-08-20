@@ -1,0 +1,19 @@
+[project]
+name = "litextract"
+version = "0.1.0"
+description = "Automated literature retrieval from biomedical publications"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "requests",
+    "pandas",
+    "thefuzz",
+    "ipykernel>=6.29.5",
+]
+
+[tool.setuptools]
+packages = ["utils"]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"

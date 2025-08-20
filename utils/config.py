@@ -18,9 +18,5 @@ dir_results = define_dir(dir_proj, "results")  # Results directory path
 dir_fulltexts = define_dir(dir_results, "fulltexts")  # Full-text articles directory path
 dir_researcharticles = define_dir(dir_results, "researcharticles")  # Research articles directory path
 dir_methods = define_dir(dir_results, "methods")  # Methods sections directory path
-dir_validation = define_dir(dir_proj, "validation")  # Validation directory
-dir_valpapers = define_dir(dir_validation, "valpapers") # Input papers for validation directory
-dir_valmethods = define_dir(dir_validation, "valmethods") # Methods for validation papers
-
 
 dir_stepsjson = define_dir(dir_results, "preprocessingsteps_extracted") #JSON files containing preprocessing steps for each article
