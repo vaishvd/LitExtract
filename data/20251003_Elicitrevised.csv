@@ -1,4 +1,4 @@
-﻿Title;Citation;Filename;Cohort;Gait Task;Dual-layer cap;Type of EEG electrodes;Gait measurement system;Flow of preprocessing steps;corrected_keywords_VV;Artifactrej_methods
+﻿Title;Citation;Filename;Cohort;Gait Task;Dual-layer cap;Type of EEG electrodes;Gait measurement system;Flow of preprocessing steps;step_keywords;Artifactrej_methods
 Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation;Jacobsen, N.A., et al., 2024;PMC11162180.pdf;Healthy adults;Treadmill walking;Yes;Active electrodes;"Force-based;OMC";"1. High-pass filtering at 1 Hz to attenuate slow drift.
 2. Re-referencing scalp, muscle, and noise channels using the average across channels.
 3. Applying iCanClean to remove motion and muscle artifacts.
@@ -611,4 +611,3 @@ Control of Movement Gait speed-related changes in electrocortical activity in yo
 12. Perform frequency and time-frequency analysis for each cluster.
 13. Use modified spectral principal component analysis to remove muscle-like artifacts from power spectral density.
 14. Use FOOOF to separate aperiodic and periodic components of power spectra.";['raw_data', 'highpass_filter', 'lowpass_filter', 'notch_filter', 'artifact_rejection', 're_reference', 'artifact_rejection', 're_reference', 'IC_decomposition', 'IC_rejection', 'clustering', 'artifact_rejection'];iCanClean, clean_artifacts, bad_channel_removal
-;;;;;;;;;;
