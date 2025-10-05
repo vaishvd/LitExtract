@@ -5,6 +5,9 @@ description = "Literature and information retrieval from biomedical publications
 authors = ["Vaishali Vinod <vaishalivinod97@gmail.com>"]
 license = "MIT"
 readme = "README.md"
+packages = [
+    { include = "utils"}
+]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
