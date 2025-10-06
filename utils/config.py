@@ -5,12 +5,12 @@ def define_dir(root, *names):
     """Creates a directory and ensures it exists."""
     path = root
     for name in names:
-        path = path / name  # use pathlib's '/' operator to join paths
+        path = path / name 
     path.mkdir(parents=True, exist_ok=True)
     return path
 
 # Get the current directory where the script is executed
-dir_proj = Path.cwd().parent
+dir_proj = Path.cwd()
 
 # Define the paths for 'logs' and 'results' directories
 dir_log_results = define_dir(dir_proj, "logs")  # Logs directory path
