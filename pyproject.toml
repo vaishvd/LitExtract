@@ -21,12 +21,12 @@ networkx = "^3.3"
 # Jupyter + notebooks
 jupyter = "^1.1.1"
 ipykernel = "^6.29.5"
-black = "^24.8.0"
-isort = "^5.13.2"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.2"
-nbstripout = "^0.7.1"  
+nbstripout = "^0.7.1"
+black = "^24.8.0"
+isort = "^5.13.2" 
 
 [build-system]
 requires = ["poetry-core>=1.9.0"]
