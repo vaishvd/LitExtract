@@ -9,8 +9,8 @@ def define_dir(root, *names):
     path.mkdir(parents=True, exist_ok=True)
     return path
 
-# Get the current directory where the script is executed
-dir_proj = Path.cwd()
+# Get the root directory of the repository (parent of 'utils')
+dir_proj = Path(__file__).resolve().parents[1]
 
 # Define the paths for 'logs' and 'results' directories
 dir_log_results = define_dir(dir_proj, "logs")  # Logs directory path
@@ -20,3 +20,4 @@ dir_researcharticles = define_dir(dir_results, "researcharticles")  # Research a
 dir_methods = define_dir(dir_results, "methods")  # Methods sections directory path
 dir_data = define_dir(dir_proj, "data") # Data directory path
 dir_processed = define_dir(dir_results, "cleanresults") # Processed data directory
+dir_plots = define_dir(dir_proj, "plots")  # Directory for plots
