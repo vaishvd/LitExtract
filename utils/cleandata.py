@@ -29,3 +29,22 @@ def split_and_clean(df: pd.DataFrame, column: str) -> pd.DataFrame:
     df_out.reset_index(drop=True, inplace=True)
     
     return df_out
+
+def make_citations_unique(citations):
+    """
+    Takes a list/Series of citation strings and appends (a), (b), etc. 
+    to duplicates so they are unique.
+    """
+    counts = {}
+    unique_citations = []
+
+    for c in citations:
+        c_clean = str(c).strip()
+        if c_clean in counts:
+            counts[c_clean] += 1
+            suffix = chr(96 + counts[c_clean])  # 97='a'
+            unique_citations.append(f"{c_clean} ({suffix})")
+        else:
+            counts[c_clean] = 1
+            unique_citations.append(c_clean)
+    return unique_citations
