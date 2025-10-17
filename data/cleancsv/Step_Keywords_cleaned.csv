@@ -1,0 +1,574 @@
+title,citation,step_keywords
+Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation,"Jacobsen, N.A., et al., 2024",Raw data
+Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation,"Jacobsen, N.A., et al., 2024",High-pass filter
+Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation,"Jacobsen, N.A., et al., 2024",Re-reference
+Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation,"Jacobsen, N.A., et al., 2024",Artifact Rejection
+Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation,"Jacobsen, N.A., et al., 2024",Notch filter
+Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation,"Jacobsen, N.A., et al., 2024",Artifact Rejection
+Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation,"Jacobsen, N.A., et al., 2024",Re-reference
+Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation,"Jacobsen, N.A., et al., 2024",IC decomposition
+Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation,"Jacobsen, N.A., et al., 2024",IC rejection
+Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation,"Jacobsen, N.A., et al., 2024",Downsample
+Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation,"Jacobsen, N.A., et al., 2024",Dipole fitting
+Electrocortical theta activity may reflect sensory prediction errors during adaptation to a gradual gait perturbation,"Jacobsen, N.A., et al., 2024",Clustering
+Study of the Brain Functional Connectivity Processes During Multi-Movement States of the Lower Limbs,"Wei, P., et al., 2024",Raw data
+Study of the Brain Functional Connectivity Processes During Multi-Movement States of the Lower Limbs,"Wei, P., et al., 2024",Channel removal
+Study of the Brain Functional Connectivity Processes During Multi-Movement States of the Lower Limbs,"Wei, P., et al., 2024",Bandpass filter
+Study of the Brain Functional Connectivity Processes During Multi-Movement States of the Lower Limbs,"Wei, P., et al., 2024",Artifact Rejection
+Study of the Brain Functional Connectivity Processes During Multi-Movement States of the Lower Limbs,"Wei, P., et al., 2024",Re-reference
+Study of the Brain Functional Connectivity Processes During Multi-Movement States of the Lower Limbs,"Wei, P., et al., 2024",Artifact Rejection
+Study of the Brain Functional Connectivity Processes During Multi-Movement States of the Lower Limbs,"Wei, P., et al., 2024",IC decomposition
+Study of the Brain Functional Connectivity Processes During Multi-Movement States of the Lower Limbs,"Wei, P., et al., 2024",IC rejection
+Study of the Brain Functional Connectivity Processes During Multi-Movement States of the Lower Limbs,"Wei, P., et al., 2024",Artifact Rejection
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Raw data
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",High-pass filter
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Artifact Rejection
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Re-reference
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Artifact Rejection
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Notch filter
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Artifact Rejection
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Re-reference
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",IC decomposition
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",IC rejection
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Downsample
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Dipole fitting
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Clustering
+The speed and phase of locomotion dictate saccade probability and simultaneous low-frequency power spectra,"Barnes, L., et al., 2024",Raw data
+The speed and phase of locomotion dictate saccade probability and simultaneous low-frequency power spectra,"Barnes, L., et al., 2024",Re-reference
+The speed and phase of locomotion dictate saccade probability and simultaneous low-frequency power spectra,"Barnes, L., et al., 2024",Bandpass filter
+The speed and phase of locomotion dictate saccade probability and simultaneous low-frequency power spectra,"Barnes, L., et al., 2024",Artifact Rejection
+The speed and phase of locomotion dictate saccade probability and simultaneous low-frequency power spectra,"Barnes, L., et al., 2024",Epoching
+The speed and phase of locomotion dictate saccade probability and simultaneous low-frequency power spectra,"Barnes, L., et al., 2024",Baseline correction
+Cortical Correlates of Gait Compensation Strategies in Parkinson Disease,"Tosserams, A., et al., 2022",Raw data
+Cortical Correlates of Gait Compensation Strategies in Parkinson Disease,"Tosserams, A., et al., 2022",Bandpass filter
+Cortical Correlates of Gait Compensation Strategies in Parkinson Disease,"Tosserams, A., et al., 2022",Downsample
+Cortical Correlates of Gait Compensation Strategies in Parkinson Disease,"Tosserams, A., et al., 2022",Artifact Rejection
+Cortical Correlates of Gait Compensation Strategies in Parkinson Disease,"Tosserams, A., et al., 2022",IC decomposition
+Cortical Correlates of Gait Compensation Strategies in Parkinson Disease,"Tosserams, A., et al., 2022",IC rejection
+Cortical networks of parkinsonian gait: a metabolic and functional connectivity study,"Pellegrini, F., et al., 2024",Raw data
+Cortical networks of parkinsonian gait: a metabolic and functional connectivity study,"Pellegrini, F., et al., 2024",Downsample
+Cortical networks of parkinsonian gait: a metabolic and functional connectivity study,"Pellegrini, F., et al., 2024",Low-pass filter
+Cortical networks of parkinsonian gait: a metabolic and functional connectivity study,"Pellegrini, F., et al., 2024",High-pass filter
+Cortical networks of parkinsonian gait: a metabolic and functional connectivity study,"Pellegrini, F., et al., 2024",Notch filter
+Cortical networks of parkinsonian gait: a metabolic and functional connectivity study,"Pellegrini, F., et al., 2024",Artifact Rejection
+Cortical networks of parkinsonian gait: a metabolic and functional connectivity study,"Pellegrini, F., et al., 2024",IC decomposition
+Cortical networks of parkinsonian gait: a metabolic and functional connectivity study,"Pellegrini, F., et al., 2024",IC rejection
+Cortical networks of parkinsonian gait: a metabolic and functional connectivity study,"Pellegrini, F., et al., 2024",Re-reference
+Frequency-dependent modulation of neural oscillations across the gait cycle,"Zhao, M., et al., 2022",Raw data
+Frequency-dependent modulation of neural oscillations across the gait cycle,"Zhao, M., et al., 2022",Channel removal
+Frequency-dependent modulation of neural oscillations across the gait cycle,"Zhao, M., et al., 2022",Bandpass filter
+Frequency-dependent modulation of neural oscillations across the gait cycle,"Zhao, M., et al., 2022",Downsample
+Frequency-dependent modulation of neural oscillations across the gait cycle,"Zhao, M., et al., 2022",IC decomposition
+Frequency-dependent modulation of neural oscillations across the gait cycle,"Zhao, M., et al., 2022",IC rejection
+Frequency-dependent modulation of neural oscillations across the gait cycle,"Zhao, M., et al., 2022",Re-reference
+Motor imagery ability scores are related to cortical activation during gait imagery,"Putzolu, M., et al., 2024",Raw data
+Motor imagery ability scores are related to cortical activation during gait imagery,"Putzolu, M., et al., 2024",Bad channel detection
+Motor imagery ability scores are related to cortical activation during gait imagery,"Putzolu, M., et al., 2024",Artifact Rejection
+Motor imagery ability scores are related to cortical activation during gait imagery,"Putzolu, M., et al., 2024",Bandpass filter
+Motor imagery ability scores are related to cortical activation during gait imagery,"Putzolu, M., et al., 2024",IC decomposition
+Motor imagery ability scores are related to cortical activation during gait imagery,"Putzolu, M., et al., 2024",IC rejection
+Motor imagery ability scores are related to cortical activation during gait imagery,"Putzolu, M., et al., 2024",Despiking
+Motor imagery ability scores are related to cortical activation during gait imagery,"Putzolu, M., et al., 2024",Re-reference
+Auditory Cue Effects on Gait-Phase-Dependent Electroencephalogram (EEG) Modulations during Overground and Treadmill Walking,"Tharawadeepimu, K., et al., 2024",Raw data
+Auditory Cue Effects on Gait-Phase-Dependent Electroencephalogram (EEG) Modulations during Overground and Treadmill Walking,"Tharawadeepimu, K., et al., 2024",Bandpass filter
+Auditory Cue Effects on Gait-Phase-Dependent Electroencephalogram (EEG) Modulations during Overground and Treadmill Walking,"Tharawadeepimu, K., et al., 2024",Notch filter
+Auditory Cue Effects on Gait-Phase-Dependent Electroencephalogram (EEG) Modulations during Overground and Treadmill Walking,"Tharawadeepimu, K., et al., 2024",IC decomposition
+Auditory Cue Effects on Gait-Phase-Dependent Electroencephalogram (EEG) Modulations during Overground and Treadmill Walking,"Tharawadeepimu, K., et al., 2024",Artifact Rejection
+Auditory Cue Effects on Gait-Phase-Dependent Electroencephalogram (EEG) Modulations during Overground and Treadmill Walking,"Tharawadeepimu, K., et al., 2024",IC rejection
+Auditory Cue Effects on Gait-Phase-Dependent Electroencephalogram (EEG) Modulations during Overground and Treadmill Walking,"Tharawadeepimu, K., et al., 2024",Low-pass filter
+Auditory Cue Effects on Gait-Phase-Dependent Electroencephalogram (EEG) Modulations during Overground and Treadmill Walking,"Tharawadeepimu, K., et al., 2024",Normalization
+Association between gait speed deterioration and EEG abnormalities,"Garcı´a-Agustin, D., et al., 2024",Raw data
+Association between gait speed deterioration and EEG abnormalities,"Garcı´a-Agustin, D., et al., 2024",Artifact Rejection
+"Brain Networks Modulation during Simple and Complex Gait: A ""Mobile Brain/Body Imaging"" Study","Bonassi, G., et al., 2024",Raw data
+"Brain Networks Modulation during Simple and Complex Gait: A ""Mobile Brain/Body Imaging"" Study","Bonassi, G., et al., 2024",Channel removal
+"Brain Networks Modulation during Simple and Complex Gait: A ""Mobile Brain/Body Imaging"" Study","Bonassi, G., et al., 2024",Bandpass filter
+"Brain Networks Modulation during Simple and Complex Gait: A ""Mobile Brain/Body Imaging"" Study","Bonassi, G., et al., 2024",Artifact Rejection
+Neural oscillations during motor imagery of complex gait: an HdEEG study,"Putzolu, M., et al., 2022",Raw data
+Neural oscillations during motor imagery of complex gait: an HdEEG study,"Putzolu, M., et al., 2022",Bad channel detection
+Neural oscillations during motor imagery of complex gait: an HdEEG study,"Putzolu, M., et al., 2022",Artifact Rejection
+Neural oscillations during motor imagery of complex gait: an HdEEG study,"Putzolu, M., et al., 2022",Bandpass filter
+Neural oscillations during motor imagery of complex gait: an HdEEG study,"Putzolu, M., et al., 2022",IC decomposition
+Neural oscillations during motor imagery of complex gait: an HdEEG study,"Putzolu, M., et al., 2022",IC rejection
+Neural oscillations during motor imagery of complex gait: an HdEEG study,"Putzolu, M., et al., 2022",Re-reference
+Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study,"Stuart, S., et al., 2021",Raw data
+Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study,"Stuart, S., et al., 2021",Downsample
+Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study,"Stuart, S., et al., 2021",Bandpass filter
+Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study,"Stuart, S., et al., 2021",Notch filter
+Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study,"Stuart, S., et al., 2021",Bad channel detection
+Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study,"Stuart, S., et al., 2021",Artifact Rejection
+Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study,"Stuart, S., et al., 2021",Re-reference
+Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study,"Stuart, S., et al., 2021",IC decomposition
+Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study,"Stuart, S., et al., 2021",IC rejection
+Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study,"Stuart, S., et al., 2021",Clustering
+Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study,"Stuart, S., et al., 2021",Artifact Rejection
+EEG beta-modulations reflect age-specific motor resource allocation during dual-task walking,"Protzak, J., et al., 2021",Raw data
+EEG beta-modulations reflect age-specific motor resource allocation during dual-task walking,"Protzak, J., et al., 2021",High-pass filter
+EEG beta-modulations reflect age-specific motor resource allocation during dual-task walking,"Protzak, J., et al., 2021",Low-pass filter
+EEG beta-modulations reflect age-specific motor resource allocation during dual-task walking,"Protzak, J., et al., 2021",Artifact Rejection
+EEG beta-modulations reflect age-specific motor resource allocation during dual-task walking,"Protzak, J., et al., 2021",Re-reference
+EEG beta-modulations reflect age-specific motor resource allocation during dual-task walking,"Protzak, J., et al., 2021",High-pass filter
+EEG beta-modulations reflect age-specific motor resource allocation during dual-task walking,"Protzak, J., et al., 2021",IC decomposition
+EEG beta-modulations reflect age-specific motor resource allocation during dual-task walking,"Protzak, J., et al., 2021",Low-pass filter
+EEG beta-modulations reflect age-specific motor resource allocation during dual-task walking,"Protzak, J., et al., 2021",Artifact Rejection
+EEG beta-modulations reflect age-specific motor resource allocation during dual-task walking,"Protzak, J., et al., 2021",Dipole fitting
+EEG beta-modulations reflect age-specific motor resource allocation during dual-task walking,"Protzak, J., et al., 2021",IC rejection
+EEG beta-modulations reflect age-specific motor resource allocation during dual-task walking,"Protzak, J., et al., 2021",Artifact Rejection
+Improved cortical activity and reduced gait asymmetry during poststroke self-paced walking rehabilitation,"Oh, K., et al., 2021",Raw data
+Improved cortical activity and reduced gait asymmetry during poststroke self-paced walking rehabilitation,"Oh, K., et al., 2021",High-pass filter
+Improved cortical activity and reduced gait asymmetry during poststroke self-paced walking rehabilitation,"Oh, K., et al., 2021",Artifact Rejection
+Improved cortical activity and reduced gait asymmetry during poststroke self-paced walking rehabilitation,"Oh, K., et al., 2021",Re-reference
+Improved cortical activity and reduced gait asymmetry during poststroke self-paced walking rehabilitation,"Oh, K., et al., 2021",Artifact Rejection
+Improved cortical activity and reduced gait asymmetry during poststroke self-paced walking rehabilitation,"Oh, K., et al., 2021",IC decomposition
+Improved cortical activity and reduced gait asymmetry during poststroke self-paced walking rehabilitation,"Oh, K., et al., 2021",Dipole fitting
+Improved cortical activity and reduced gait asymmetry during poststroke self-paced walking rehabilitation,"Oh, K., et al., 2021",Clustering
+Improved cortical activity and reduced gait asymmetry during poststroke self-paced walking rehabilitation,"Oh, K., et al., 2021",IC rejection
+"Scalp recorded theta activity is modulated by reward, direction, and speed during virtual navigation in freely moving humans","Lin, M.-H., et al., 2022",Raw data
+"Scalp recorded theta activity is modulated by reward, direction, and speed during virtual navigation in freely moving humans","Lin, M.-H., et al., 2022",Bandpass filter
+"Scalp recorded theta activity is modulated by reward, direction, and speed during virtual navigation in freely moving humans","Lin, M.-H., et al., 2022",IC decomposition
+"Scalp recorded theta activity is modulated by reward, direction, and speed during virtual navigation in freely moving humans","Lin, M.-H., et al., 2022",IC rejection
+"Scalp recorded theta activity is modulated by reward, direction, and speed during virtual navigation in freely moving humans","Lin, M.-H., et al., 2022",Epoching
+"Scalp recorded theta activity is modulated by reward, direction, and speed during virtual navigation in freely moving humans","Lin, M.-H., et al., 2022",Re-reference
+"Scalp recorded theta activity is modulated by reward, direction, and speed during virtual navigation in freely moving humans","Lin, M.-H., et al., 2022",Baseline correction
+"Scalp recorded theta activity is modulated by reward, direction, and speed during virtual navigation in freely moving humans","Lin, M.-H., et al., 2022",Artifact Rejection
+"Scalp recorded theta activity is modulated by reward, direction, and speed during virtual navigation in freely moving humans","Lin, M.-H., et al., 2022",Bad channel detection
+"Scalp recorded theta activity is modulated by reward, direction, and speed during virtual navigation in freely moving humans","Lin, M.-H., et al., 2022",Artifact Rejection
+Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initiation after Instructed Arm Swing,"Weersink, J. B., et al., 2020",Raw data
+Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initiation after Instructed Arm Swing,"Weersink, J. B., et al., 2020",Downsample
+Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initiation after Instructed Arm Swing,"Weersink, J. B., et al., 2020",High-pass filter
+Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initiation after Instructed Arm Swing,"Weersink, J. B., et al., 2020",Notch filter
+Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initiation after Instructed Arm Swing,"Weersink, J. B., et al., 2020",Artifact Rejection
+Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initiation after Instructed Arm Swing,"Weersink, J. B., et al., 2020",Re-reference
+Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initiation after Instructed Arm Swing,"Weersink, J. B., et al., 2020",IC decomposition
+Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initiation after Instructed Arm Swing,"Weersink, J. B., et al., 2020",Epoching
+Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initiation after Instructed Arm Swing,"Weersink, J. B., et al., 2020",Dipole fitting
+Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initiation after Instructed Arm Swing,"Weersink, J. B., et al., 2020",IC rejection
+Connectivity of EEG synchronization networks increases for Parkinson's disease patients with freezing of gait,"Asher, E., et al., 2021",Raw data
+Connectivity of EEG synchronization networks increases for Parkinson's disease patients with freezing of gait,"Asher, E., et al., 2021",Artifact Rejection
+Connectivity of EEG synchronization networks increases for Parkinson's disease patients with freezing of gait,"Asher, E., et al., 2021",Downsample
+Connectivity of EEG synchronization networks increases for Parkinson's disease patients with freezing of gait,"Asher, E., et al., 2021",High-pass filter
+Connectivity of EEG synchronization networks increases for Parkinson's disease patients with freezing of gait,"Asher, E., et al., 2021",IC decomposition
+Connectivity of EEG synchronization networks increases for Parkinson's disease patients with freezing of gait,"Asher, E., et al., 2021",IC rejection
+Differential Theta-Band Signatures of the Anterior Cingulate and Motor Cortices During Seated Locomotor Perturbations,"Shirazi, S. Y., et al., 2021",Raw data
+Differential Theta-Band Signatures of the Anterior Cingulate and Motor Cortices During Seated Locomotor Perturbations,"Shirazi, S. Y., et al., 2021",High-pass filter
+Differential Theta-Band Signatures of the Anterior Cingulate and Motor Cortices During Seated Locomotor Perturbations,"Shirazi, S. Y., et al., 2021",Notch filter
+Differential Theta-Band Signatures of the Anterior Cingulate and Motor Cortices During Seated Locomotor Perturbations,"Shirazi, S. Y., et al., 2021",Bad channel detection
+Differential Theta-Band Signatures of the Anterior Cingulate and Motor Cortices During Seated Locomotor Perturbations,"Shirazi, S. Y., et al., 2021",Artifact Rejection
+Differential Theta-Band Signatures of the Anterior Cingulate and Motor Cortices During Seated Locomotor Perturbations,"Shirazi, S. Y., et al., 2021",IC decomposition
+Differential Theta-Band Signatures of the Anterior Cingulate and Motor Cortices During Seated Locomotor Perturbations,"Shirazi, S. Y., et al., 2021",Dipole fitting
+Differential Theta-Band Signatures of the Anterior Cingulate and Motor Cortices During Seated Locomotor Perturbations,"Shirazi, S. Y., et al., 2021",IC rejection
+Differential Theta-Band Signatures of the Anterior Cingulate and Motor Cortices During Seated Locomotor Perturbations,"Shirazi, S. Y., et al., 2021",Clustering
+Backward Walking Induces Significantly Larger Upper-Mu-Rhythm Suppression Effects Than Forward Walking Does,"Lin, N., et al., 2020",Raw data
+Backward Walking Induces Significantly Larger Upper-Mu-Rhythm Suppression Effects Than Forward Walking Does,"Lin, N., et al., 2020",Bandpass filter
+Backward Walking Induces Significantly Larger Upper-Mu-Rhythm Suppression Effects Than Forward Walking Does,"Lin, N., et al., 2020",Low-pass filter
+Backward Walking Induces Significantly Larger Upper-Mu-Rhythm Suppression Effects Than Forward Walking Does,"Lin, N., et al., 2020",Downsample
+Backward Walking Induces Significantly Larger Upper-Mu-Rhythm Suppression Effects Than Forward Walking Does,"Lin, N., et al., 2020",Artifact Rejection
+Backward Walking Induces Significantly Larger Upper-Mu-Rhythm Suppression Effects Than Forward Walking Does,"Lin, N., et al., 2020",IC decomposition
+Backward Walking Induces Significantly Larger Upper-Mu-Rhythm Suppression Effects Than Forward Walking Does,"Lin, N., et al., 2020",IC rejection
+Backward Walking Induces Significantly Larger Upper-Mu-Rhythm Suppression Effects Than Forward Walking Does,"Lin, N., et al., 2020",Epoching
+Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimotor cortex,"Nordin, A. D., et al., 2019",Raw data
+Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimotor cortex,"Nordin, A. D., et al., 2019",High-pass filter
+Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimotor cortex,"Nordin, A. D., et al., 2019",Bad channel detection
+Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimotor cortex,"Nordin, A. D., et al., 2019",Artifact Rejection
+Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimotor cortex,"Nordin, A. D., et al., 2019",Re-reference
+Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimotor cortex,"Nordin, A. D., et al., 2019",Downsample
+Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimotor cortex,"Nordin, A. D., et al., 2019",IC decomposition
+Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimotor cortex,"Nordin, A. D., et al., 2019",Dipole fitting
+Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimotor cortex,"Nordin, A. D., et al., 2019",Clustering
+Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimotor cortex,"Nordin, A. D., et al., 2019",Artifact Rejection
+Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimotor cortex,"Nordin, A. D., et al., 2019",IC rejection
+Prediction of gait intention from pre-movement EEG signals: a feasibility study,"Shafiul Hasan, S. M., et al., 2020",Raw data
+Prediction of gait intention from pre-movement EEG signals: a feasibility study,"Shafiul Hasan, S. M., et al., 2020",Downsample
+Prediction of gait intention from pre-movement EEG signals: a feasibility study,"Shafiul Hasan, S. M., et al., 2020",High-pass filter
+Prediction of gait intention from pre-movement EEG signals: a feasibility study,"Shafiul Hasan, S. M., et al., 2020",Notch filter
+Prediction of gait intention from pre-movement EEG signals: a feasibility study,"Shafiul Hasan, S. M., et al., 2020",Artifact Rejection
+Prediction of gait intention from pre-movement EEG signals: a feasibility study,"Shafiul Hasan, S. M., et al., 2020",Re-reference
+Prediction of gait intention from pre-movement EEG signals: a feasibility study,"Shafiul Hasan, S. M., et al., 2020",IC decomposition
+Prediction of gait intention from pre-movement EEG signals: a feasibility study,"Shafiul Hasan, S. M., et al., 2020",IC rejection
+Corticomuscular control of walking in older people and people with parkinson's disease,"Roeder, L., et al., 2020",Raw data
+Corticomuscular control of walking in older people and people with parkinson's disease,"Roeder, L., et al., 2020",Artifact Rejection
+Corticomuscular control of walking in older people and people with parkinson's disease,"Roeder, L., et al., 2020",Bandpass filter
+Corticomuscular control of walking in older people and people with parkinson's disease,"Roeder, L., et al., 2020",Re-reference
+Corticomuscular control of walking in older people and people with parkinson's disease,"Roeder, L., et al., 2020",IC decomposition
+Corticomuscular control of walking in older people and people with parkinson's disease,"Roeder, L., et al., 2020",IC rejection
+"Electrocortical correlates of human levelground, slope, and stair walking","Luu, T.P., et al., 2017",Raw data
+"Electrocortical correlates of human levelground, slope, and stair walking","Luu, T.P., et al., 2017",Channel removal
+"Electrocortical correlates of human levelground, slope, and stair walking","Luu, T.P., et al., 2017",High-pass filter
+"Electrocortical correlates of human levelground, slope, and stair walking","Luu, T.P., et al., 2017",Artifact Rejection
+"Electrocortical correlates of human levelground, slope, and stair walking","Luu, T.P., et al., 2017",Re-reference
+"Electrocortical correlates of human levelground, slope, and stair walking","Luu, T.P., et al., 2017",Artifact Rejection
+"Electrocortical correlates of human levelground, slope, and stair walking","Luu, T.P., et al., 2017",Downsample
+"Electrocortical correlates of human levelground, slope, and stair walking","Luu, T.P., et al., 2017",IC decomposition
+"Electrocortical correlates of human levelground, slope, and stair walking","Luu, T.P., et al., 2017",Dipole fitting
+"Electrocortical correlates of human levelground, slope, and stair walking","Luu, T.P., et al., 2017",IC rejection
+"Electrocortical correlates of human levelground, slope, and stair walking","Luu, T.P., et al., 2017",Clustering
+Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",Raw data
+Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",Bad channel detection
+Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",Artifact Rejection
+Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",Re-reference
+Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",Downsample
+Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",High-pass filter
+Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",Low-pass filter
+Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",Artifact Rejection
+Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",IC decomposition
+Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",IC rejection
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",Raw data
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",High-pass filter
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",Artifact Rejection
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",Re-reference
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",Downsample
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",IC decomposition
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",IC rejection
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",Dipole fitting
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",Clustering
+Rapid changes in arousal states of healthy volunteers during robot-assisted gait training: a quantitative time-series electroencephalography study,"Nakanishi, Y., et al., 2014",Raw data
+Rapid changes in arousal states of healthy volunteers during robot-assisted gait training: a quantitative time-series electroencephalography study,"Nakanishi, Y., et al., 2014",Low-pass filter
+Rapid changes in arousal states of healthy volunteers during robot-assisted gait training: a quantitative time-series electroencephalography study,"Nakanishi, Y., et al., 2014",Artifact Rejection
+Decoding the Attentional Demands of Gait through EEG Gamma Band Features,"Costa, Á., et al., 2016",Raw data
+Decoding the Attentional Demands of Gait through EEG Gamma Band Features,"Costa, Á., et al., 2016",Bandpass filter
+Decoding the Attentional Demands of Gait through EEG Gamma Band Features,"Costa, Á., et al., 2016",Bad channel detection
+Decoding the Attentional Demands of Gait through EEG Gamma Band Features,"Costa, Á., et al., 2016",Artifact Rejection
+Decoding the Attentional Demands of Gait through EEG Gamma Band Features,"Costa, Á., et al., 2016",Notch filter
+EEG Single-Trial Detection of Gait Speed Changes during Treadmill Walk,"Lisi, G., et al., 2015",Raw data
+EEG Single-Trial Detection of Gait Speed Changes during Treadmill Walk,"Lisi, G., et al., 2015",Bandpass filter
+EEG Single-Trial Detection of Gait Speed Changes during Treadmill Walk,"Lisi, G., et al., 2015",Downsample
+EEG Single-Trial Detection of Gait Speed Changes during Treadmill Walk,"Lisi, G., et al., 2015",IC decomposition
+EEG Single-Trial Detection of Gait Speed Changes during Treadmill Walk,"Lisi, G., et al., 2015",Artifact Rejection
+EEG Single-Trial Detection of Gait Speed Changes during Treadmill Walk,"Lisi, G., et al., 2015",Bandpass filter
+EEG Single-Trial Detection of Gait Speed Changes during Treadmill Walk,"Lisi, G., et al., 2015",IC decomposition
+EEG Single-Trial Detection of Gait Speed Changes during Treadmill Walk,"Lisi, G., et al., 2015",IC rejection
+EEG Single-Trial Detection of Gait Speed Changes during Treadmill Walk,"Lisi, G., et al., 2015",Artifact Rejection
+Neural Correlates of Dual-Task Walking: Effects of Cognitive versus Motor Interference in Young Adults,"Beurskens, R., et al., 2016",Raw data
+Neural Correlates of Dual-Task Walking: Effects of Cognitive versus Motor Interference in Young Adults,"Beurskens, R., et al., 2016",Bandpass filter
+Neural Correlates of Dual-Task Walking: Effects of Cognitive versus Motor Interference in Young Adults,"Beurskens, R., et al., 2016",Artifact Rejection
+Neural Correlates of Dual-Task Walking: Effects of Cognitive versus Motor Interference in Young Adults,"Beurskens, R., et al., 2016",Epoching
+Independent Component Analysis of Gait-Related Movement Artifact Recorded using EEG Electrodes during Treadmill Walking,"Snyder, K. L., et al., 2015",Raw data
+Independent Component Analysis of Gait-Related Movement Artifact Recorded using EEG Electrodes during Treadmill Walking,"Snyder, K. L., et al., 2015",High-pass filter
+Independent Component Analysis of Gait-Related Movement Artifact Recorded using EEG Electrodes during Treadmill Walking,"Snyder, K. L., et al., 2015",Bad channel detection
+Independent Component Analysis of Gait-Related Movement Artifact Recorded using EEG Electrodes during Treadmill Walking,"Snyder, K. L., et al., 2015",Artifact Rejection
+Independent Component Analysis of Gait-Related Movement Artifact Recorded using EEG Electrodes during Treadmill Walking,"Snyder, K. L., et al., 2015",IC decomposition
+Independent Component Analysis of Gait-Related Movement Artifact Recorded using EEG Electrodes during Treadmill Walking,"Snyder, K. L., et al., 2015",Dipole fitting
+Independent Component Analysis of Gait-Related Movement Artifact Recorded using EEG Electrodes during Treadmill Walking,"Snyder, K. L., et al., 2015",Re-reference
+"Motion and Muscle Artifact Removal Validation Using an Electrical Head Phantom, Robotic Motion Platform, and Dual Layer Mobile EEG","Richer, N., et al., 2020",Raw data
+"Motion and Muscle Artifact Removal Validation Using an Electrical Head Phantom, Robotic Motion Platform, and Dual Layer Mobile EEG","Richer, N., et al., 2020",High-pass filter
+"Motion and Muscle Artifact Removal Validation Using an Electrical Head Phantom, Robotic Motion Platform, and Dual Layer Mobile EEG","Richer, N., et al., 2020",Re-reference
+"Motion and Muscle Artifact Removal Validation Using an Electrical Head Phantom, Robotic Motion Platform, and Dual Layer Mobile EEG","Richer, N., et al., 2020",Artifact Rejection
+"Motion and Muscle Artifact Removal Validation Using an Electrical Head Phantom, Robotic Motion Platform, and Dual Layer Mobile EEG","Richer, N., et al., 2020",IC decomposition
+Alteration of brain dynamics during dual-task overground walking,"Nenna, F., et al., 2021",Raw data
+Alteration of brain dynamics during dual-task overground walking,"Nenna, F., et al., 2021",Bandpass filter
+Alteration of brain dynamics during dual-task overground walking,"Nenna, F., et al., 2021",Downsample
+Alteration of brain dynamics during dual-task overground walking,"Nenna, F., et al., 2021",Bad channel detection
+Alteration of brain dynamics during dual-task overground walking,"Nenna, F., et al., 2021",Artifact Rejection
+Alteration of brain dynamics during dual-task overground walking,"Nenna, F., et al., 2021",Re-reference
+Alteration of brain dynamics during dual-task overground walking,"Nenna, F., et al., 2021",Artifact Rejection
+Alteration of brain dynamics during dual-task overground walking,"Nenna, F., et al., 2021",IC decomposition
+Alteration of brain dynamics during dual-task overground walking,"Nenna, F., et al., 2021",IC rejection
+Alteration of brain dynamics during dual-task overground walking,"Nenna, F., et al., 2021",Low-pass filter
+Alteration of brain dynamics during dual-task overground walking,"Nenna, F., et al., 2021",Epoching
+Alteration of brain dynamics during dual-task overground walking,"Nenna, F., et al., 2021",Baseline correction
+Neural Correlates of Single-and Dual-Task Walking in the Real World,"Pizzamiglio, S., et al., 2017",Raw data
+Neural Correlates of Single-and Dual-Task Walking in the Real World,"Pizzamiglio, S., et al., 2017",Bandpass filter
+Neural Correlates of Single-and Dual-Task Walking in the Real World,"Pizzamiglio, S., et al., 2017",Notch filter
+Neural Correlates of Single-and Dual-Task Walking in the Real World,"Pizzamiglio, S., et al., 2017",Bad channel detection
+Neural Correlates of Single-and Dual-Task Walking in the Real World,"Pizzamiglio, S., et al., 2017",Artifact Rejection
+Neural Correlates of Single-and Dual-Task Walking in the Real World,"Pizzamiglio, S., et al., 2017",Re-reference
+Neural Correlates of Single-and Dual-Task Walking in the Real World,"Pizzamiglio, S., et al., 2017",IC decomposition
+Neural Correlates of Single-and Dual-Task Walking in the Real World,"Pizzamiglio, S., et al., 2017",IC rejection
+Neural Correlates of Single-and Dual-Task Walking in the Real World,"Pizzamiglio, S., et al., 2017",Artifact Rejection
+Neural Correlates of Single-and Dual-Task Walking in the Real World,"Pizzamiglio, S., et al., 2017",Re-reference
+Neural Correlates of Single-and Dual-Task Walking in the Real World,"Pizzamiglio, S., et al., 2017",Epoching
+A Channel Rejection Method for Attenuating Motion-Related Artifacts in EEG Recordings during Walking,"Delorme, A., et al., 2017",Raw data
+A Channel Rejection Method for Attenuating Motion-Related Artifacts in EEG Recordings during Walking,"Delorme, A., et al., 2017",High-pass filter
+A Channel Rejection Method for Attenuating Motion-Related Artifacts in EEG Recordings during Walking,"Delorme, A., et al., 2017",Notch filter
+A Channel Rejection Method for Attenuating Motion-Related Artifacts in EEG Recordings during Walking,"Delorme, A., et al., 2017",Artifact Rejection
+A Channel Rejection Method for Attenuating Motion-Related Artifacts in EEG Recordings during Walking,"Delorme, A., et al., 2017",IC decomposition
+A Channel Rejection Method for Attenuating Motion-Related Artifacts in EEG Recordings during Walking,"Delorme, A., et al., 2017",IC rejection
+Neural predictors of gait stability when walking freely in the real-world,"Pizzamiglio, S., et al., 2018",Raw data
+Neural predictors of gait stability when walking freely in the real-world,"Pizzamiglio, S., et al., 2018",Bandpass filter
+Neural predictors of gait stability when walking freely in the real-world,"Pizzamiglio, S., et al., 2018",Notch filter
+Neural predictors of gait stability when walking freely in the real-world,"Pizzamiglio, S., et al., 2018",Bad channel detection
+Neural predictors of gait stability when walking freely in the real-world,"Pizzamiglio, S., et al., 2018",Artifact Rejection
+Neural predictors of gait stability when walking freely in the real-world,"Pizzamiglio, S., et al., 2018",Re-reference
+Neural predictors of gait stability when walking freely in the real-world,"Pizzamiglio, S., et al., 2018",IC decomposition
+Neural predictors of gait stability when walking freely in the real-world,"Pizzamiglio, S., et al., 2018",IC rejection
+Neural predictors of gait stability when walking freely in the real-world,"Pizzamiglio, S., et al., 2018",Artifact Rejection
+Neural predictors of gait stability when walking freely in the real-world,"Pizzamiglio, S., et al., 2018",Re-reference
+Neural predictors of gait stability when walking freely in the real-world,"Pizzamiglio, S., et al., 2018",Epoching
+Is Cortical Activation During Walking Different Between Parkinson's Disease Motor Subtypes?,"Orcioli-Silva, D., et al., 2020",Raw data
+Is Cortical Activation During Walking Different Between Parkinson's Disease Motor Subtypes?,"Orcioli-Silva, D., et al., 2020",Epoching
+Is Cortical Activation During Walking Different Between Parkinson's Disease Motor Subtypes?,"Orcioli-Silva, D., et al., 2020",Bandpass filter
+Is Cortical Activation During Walking Different Between Parkinson's Disease Motor Subtypes?,"Orcioli-Silva, D., et al., 2020",Notch filter
+Is Cortical Activation During Walking Different Between Parkinson's Disease Motor Subtypes?,"Orcioli-Silva, D., et al., 2020",Artifact Rejection
+Is Cortical Activation During Walking Different Between Parkinson's Disease Motor Subtypes?,"Orcioli-Silva, D., et al., 2020",IC decomposition
+Is Cortical Activation During Walking Different Between Parkinson's Disease Motor Subtypes?,"Orcioli-Silva, D., et al., 2020",IC rejection
+Is Cortical Activation During Walking Different Between Parkinson's Disease Motor Subtypes?,"Orcioli-Silva, D., et al., 2020",Artifact Rejection
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",Raw data
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",High-pass filter
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",Low-pass filter
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",Downsample
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",Artifact Rejection
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",Re-reference
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",Artifact Rejection
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",Epoching
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",Artifact Rejection
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",IC decomposition
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",IC rejection
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",High-pass filter
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",Low-pass filter
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",Epoching
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",Baseline correction
+Stepping in time: Alpha -mu and beta oscillations during a walking synchronization task,"Scanlon, J. E. M., et al., 2022",Artifact Rejection
+Mobile EEG reveals functionally dissociable dynamic processes supporting real-world ambulatory obstacle avoidance: Evidence for early proactive control,"Mustile, M., et al., 2021",Raw data
+Mobile EEG reveals functionally dissociable dynamic processes supporting real-world ambulatory obstacle avoidance: Evidence for early proactive control,"Mustile, M., et al., 2021",Bandpass filter
+Mobile EEG reveals functionally dissociable dynamic processes supporting real-world ambulatory obstacle avoidance: Evidence for early proactive control,"Mustile, M., et al., 2021",Channel removal
+Mobile EEG reveals functionally dissociable dynamic processes supporting real-world ambulatory obstacle avoidance: Evidence for early proactive control,"Mustile, M., et al., 2021",Bandpass filter
+Mobile EEG reveals functionally dissociable dynamic processes supporting real-world ambulatory obstacle avoidance: Evidence for early proactive control,"Mustile, M., et al., 2021",Bad channel detection
+Mobile EEG reveals functionally dissociable dynamic processes supporting real-world ambulatory obstacle avoidance: Evidence for early proactive control,"Mustile, M., et al., 2021",Artifact Rejection
+Mobile EEG reveals functionally dissociable dynamic processes supporting real-world ambulatory obstacle avoidance: Evidence for early proactive control,"Mustile, M., et al., 2021",Re-reference
+Mobile EEG reveals functionally dissociable dynamic processes supporting real-world ambulatory obstacle avoidance: Evidence for early proactive control,"Mustile, M., et al., 2021",IC decomposition
+Mobile EEG reveals functionally dissociable dynamic processes supporting real-world ambulatory obstacle avoidance: Evidence for early proactive control,"Mustile, M., et al., 2021",IC rejection
+Recalibration of Inhibitory Control Systems during Walking-Related Dual-Task Interference: A Mobile Brain-Body Imaging (MOBI) Study,"De Sanctis, P., et al., 2015",Raw data
+Recalibration of Inhibitory Control Systems during Walking-Related Dual-Task Interference: A Mobile Brain-Body Imaging (MOBI) Study,"De Sanctis, P., et al., 2015",Re-reference
+Recalibration of Inhibitory Control Systems during Walking-Related Dual-Task Interference: A Mobile Brain-Body Imaging (MOBI) Study,"De Sanctis, P., et al., 2015",Bandpass filter
+Recalibration of Inhibitory Control Systems during Walking-Related Dual-Task Interference: A Mobile Brain-Body Imaging (MOBI) Study,"De Sanctis, P., et al., 2015",Artifact Rejection
+Recalibration of Inhibitory Control Systems during Walking-Related Dual-Task Interference: A Mobile Brain-Body Imaging (MOBI) Study,"De Sanctis, P., et al., 2015",Epoching
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",Raw data
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",High-pass filter
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",Low-pass filter
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",Downsample
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",Artifact Rejection
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",IC decomposition
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",IC rejection
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",High-pass filter
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",Low-pass filter
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",Artifact Rejection
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",Re-reference
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",Epoching
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",Baseline correction
+Does the electrode amplification style matter? A comparison of active and passive EEG system configurations during standing and walking,"Scanlon, J., et al., 2020",Artifact Rejection
+The neural response is heightened when watching a person approaching compared to walking away: Evidence for dynamic social neuroscience,"Mustile, M., et al., 2022",Raw data
+The neural response is heightened when watching a person approaching compared to walking away: Evidence for dynamic social neuroscience,"Mustile, M., et al., 2022",Channel removal
+The neural response is heightened when watching a person approaching compared to walking away: Evidence for dynamic social neuroscience,"Mustile, M., et al., 2022",Bandpass filter
+The neural response is heightened when watching a person approaching compared to walking away: Evidence for dynamic social neuroscience,"Mustile, M., et al., 2022",Artifact Rejection
+The neural response is heightened when watching a person approaching compared to walking away: Evidence for dynamic social neuroscience,"Mustile, M., et al., 2022",Re-reference
+The neural response is heightened when watching a person approaching compared to walking away: Evidence for dynamic social neuroscience,"Mustile, M., et al., 2022",Downsample
+The neural response is heightened when watching a person approaching compared to walking away: Evidence for dynamic social neuroscience,"Mustile, M., et al., 2022",IC decomposition
+The neural response is heightened when watching a person approaching compared to walking away: Evidence for dynamic social neuroscience,"Mustile, M., et al., 2022",IC rejection
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",Raw data
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",High-pass filter
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",Low-pass filter
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",Notch filter
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",Artifact Rejection
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",High-pass filter
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",Low-pass filter
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",Downsample
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",Artifact Rejection
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",IC decomposition
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",IC rejection
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",Re-reference
+Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG and EMG Classifiers,"Tortora, S., et al., 2020",Normalization
+Negligible Motion Artifacts in Scalp Electroencephalography (EEG) During Treadmill Walking,"Nathan, K., et al., 2016",Raw data
+Negligible Motion Artifacts in Scalp Electroencephalography (EEG) During Treadmill Walking,"Nathan, K., et al., 2016",Re-reference
+Negligible Motion Artifacts in Scalp Electroencephalography (EEG) During Treadmill Walking,"Nathan, K., et al., 2016",Low-pass filter
+Negligible Motion Artifacts in Scalp Electroencephalography (EEG) During Treadmill Walking,"Nathan, K., et al., 2016",Artifact Rejection
+A walk in the park? Characterizing gait-related artifacts in mobile EEG recordings,"Jacobsen, N.S.J., et al., 2020",Raw data
+A walk in the park? Characterizing gait-related artifacts in mobile EEG recordings,"Jacobsen, N.S.J., et al., 2020",High-pass filter
+A walk in the park? Characterizing gait-related artifacts in mobile EEG recordings,"Jacobsen, N.S.J., et al., 2020",Low-pass filter
+A walk in the park? Characterizing gait-related artifacts in mobile EEG recordings,"Jacobsen, N.S.J., et al., 2020",Downsample
+A walk in the park? Characterizing gait-related artifacts in mobile EEG recordings,"Jacobsen, N.S.J., et al., 2020",Artifact Rejection
+A walk in the park? Characterizing gait-related artifacts in mobile EEG recordings,"Jacobsen, N.S.J., et al., 2020",Re-reference
+A walk in the park? Characterizing gait-related artifacts in mobile EEG recordings,"Jacobsen, N.S.J., et al., 2020",Artifact Rejection
+A walk in the park? Characterizing gait-related artifacts in mobile EEG recordings,"Jacobsen, N.S.J., et al., 2020",IC decomposition
+A walk in the park? Characterizing gait-related artifacts in mobile EEG recordings,"Jacobsen, N.S.J., et al., 2020",Artifact Rejection
+A walk in the park? Characterizing gait-related artifacts in mobile EEG recordings,"Jacobsen, N.S.J., et al., 2020",Dipole fitting
+A walk in the park? Characterizing gait-related artifacts in mobile EEG recordings,"Jacobsen, N.S.J., et al., 2020",IC rejection
+Effects of theta burst stimulation on the Parkinsonian gait disorder and cortical gait-network activity,"Dutke, J., et al., 2025",Raw data
+Effects of theta burst stimulation on the Parkinsonian gait disorder and cortical gait-network activity,"Dutke, J., et al., 2025",Re-reference
+Effects of theta burst stimulation on the Parkinsonian gait disorder and cortical gait-network activity,"Dutke, J., et al., 2025",High-pass filter
+Effects of theta burst stimulation on the Parkinsonian gait disorder and cortical gait-network activity,"Dutke, J., et al., 2025",Low-pass filter
+Effects of theta burst stimulation on the Parkinsonian gait disorder and cortical gait-network activity,"Dutke, J., et al., 2025",Artifact Rejection
+Effects of theta burst stimulation on the Parkinsonian gait disorder and cortical gait-network activity,"Dutke, J., et al., 2025",Notch filter
+Effects of theta burst stimulation on the Parkinsonian gait disorder and cortical gait-network activity,"Dutke, J., et al., 2025",Artifact Rejection
+Effects of theta burst stimulation on the Parkinsonian gait disorder and cortical gait-network activity,"Dutke, J., et al., 2025",IC decomposition
+Effects of theta burst stimulation on the Parkinsonian gait disorder and cortical gait-network activity,"Dutke, J., et al., 2025",IC rejection
+Effects of theta burst stimulation on the Parkinsonian gait disorder and cortical gait-network activity,"Dutke, J., et al., 2025",Dipole fitting
+Mobile electroencephalography captures differences of walking over even and uneven terrain but not of single and dual-task gait,"Jacobsen, N.S.J., et al., 2022",Raw data
+Mobile electroencephalography captures differences of walking over even and uneven terrain but not of single and dual-task gait,"Jacobsen, N.S.J., et al., 2022",Downsample
+Mobile electroencephalography captures differences of walking over even and uneven terrain but not of single and dual-task gait,"Jacobsen, N.S.J., et al., 2022",Low-pass filter
+Mobile electroencephalography captures differences of walking over even and uneven terrain but not of single and dual-task gait,"Jacobsen, N.S.J., et al., 2022",High-pass filter
+Mobile electroencephalography captures differences of walking over even and uneven terrain but not of single and dual-task gait,"Jacobsen, N.S.J., et al., 2022",Artifact Rejection
+Mobile electroencephalography captures differences of walking over even and uneven terrain but not of single and dual-task gait,"Jacobsen, N.S.J., et al., 2022",Notch filter
+Mobile electroencephalography captures differences of walking over even and uneven terrain but not of single and dual-task gait,"Jacobsen, N.S.J., et al., 2022",Artifact Rejection
+Mobile electroencephalography captures differences of walking over even and uneven terrain but not of single and dual-task gait,"Jacobsen, N.S.J., et al., 2022",Re-reference
+Mobile electroencephalography captures differences of walking over even and uneven terrain but not of single and dual-task gait,"Jacobsen, N.S.J., et al., 2022",High-pass filter
+Mobile electroencephalography captures differences of walking over even and uneven terrain but not of single and dual-task gait,"Jacobsen, N.S.J., et al., 2022",Artifact Rejection
+Mobile electroencephalography captures differences of walking over even and uneven terrain but not of single and dual-task gait,"Jacobsen, N.S.J., et al., 2022",IC decomposition
+Mobile electroencephalography captures differences of walking over even and uneven terrain but not of single and dual-task gait,"Jacobsen, N.S.J., et al., 2022",IC rejection
+The aging brain shows less flexible reallocation of cognitive resources during dual-task walking: a mobile brain/body imaging (MoBI) study,"Malcolm, B. R., et al., 2016",Raw data
+The aging brain shows less flexible reallocation of cognitive resources during dual-task walking: a mobile brain/body imaging (MoBI) study,"Malcolm, B. R., et al., 2016",Bandpass filter
+The aging brain shows less flexible reallocation of cognitive resources during dual-task walking: a mobile brain/body imaging (MoBI) study,"Malcolm, B. R., et al., 2016",Artifact Rejection
+The aging brain shows less flexible reallocation of cognitive resources during dual-task walking: a mobile brain/body imaging (MoBI) study,"Malcolm, B. R., et al., 2016",Re-reference
+The aging brain shows less flexible reallocation of cognitive resources during dual-task walking: a mobile brain/body imaging (MoBI) study,"Malcolm, B. R., et al., 2016",Epoching
+Paradoxical improvement of cognitive control in older adults under dual-task walking conditions is associated with more flexible reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2023",Raw data
+Paradoxical improvement of cognitive control in older adults under dual-task walking conditions is associated with more flexible reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2023",Bandpass filter
+Paradoxical improvement of cognitive control in older adults under dual-task walking conditions is associated with more flexible reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2023",Bad channel detection
+Paradoxical improvement of cognitive control in older adults under dual-task walking conditions is associated with more flexible reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2023",Artifact Rejection
+Paradoxical improvement of cognitive control in older adults under dual-task walking conditions is associated with more flexible reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2023",Re-reference
+Paradoxical improvement of cognitive control in older adults under dual-task walking conditions is associated with more flexible reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2023",Bandpass filter
+Paradoxical improvement of cognitive control in older adults under dual-task walking conditions is associated with more flexible reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2023",IC decomposition
+Paradoxical improvement of cognitive control in older adults under dual-task walking conditions is associated with more flexible reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2023",IC rejection
+Paradoxical improvement of cognitive control in older adults under dual-task walking conditions is associated with more flexible reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2023",Epoching
+Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacles in Parkinson's Disease,"Vitório, R., et al., 2023",Raw data
+Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacles in Parkinson's Disease,"Vitório, R., et al., 2023",Downsample
+Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacles in Parkinson's Disease,"Vitório, R., et al., 2023",Bandpass filter
+Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacles in Parkinson's Disease,"Vitório, R., et al., 2023",Artifact Rejection
+Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacles in Parkinson's Disease,"Vitório, R., et al., 2023",Re-reference
+Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacles in Parkinson's Disease,"Vitório, R., et al., 2023",Artifact Rejection
+Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacles in Parkinson's Disease,"Vitório, R., et al., 2023",IC decomposition
+Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacles in Parkinson's Disease,"Vitório, R., et al., 2023",IC rejection
+Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacles in Parkinson's Disease,"Vitório, R., et al., 2023",Dipole fitting
+Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacles in Parkinson's Disease,"Vitório, R., et al., 2023",Clustering
+Combined Subthalamic and Nigral Stimulation Modulates Temporal Gait Coordination and Cortical Gait-Network Activity in Parkinson's Disease,"Wagner, J. R., et al., 2022",Raw data
+Combined Subthalamic and Nigral Stimulation Modulates Temporal Gait Coordination and Cortical Gait-Network Activity in Parkinson's Disease,"Wagner, J. R., et al., 2022",Low-pass filter
+Combined Subthalamic and Nigral Stimulation Modulates Temporal Gait Coordination and Cortical Gait-Network Activity in Parkinson's Disease,"Wagner, J. R., et al., 2022",Downsample
+Combined Subthalamic and Nigral Stimulation Modulates Temporal Gait Coordination and Cortical Gait-Network Activity in Parkinson's Disease,"Wagner, J. R., et al., 2022",High-pass filter
+Combined Subthalamic and Nigral Stimulation Modulates Temporal Gait Coordination and Cortical Gait-Network Activity in Parkinson's Disease,"Wagner, J. R., et al., 2022",Artifact Rejection
+Combined Subthalamic and Nigral Stimulation Modulates Temporal Gait Coordination and Cortical Gait-Network Activity in Parkinson's Disease,"Wagner, J. R., et al., 2022",Re-reference
+Combined Subthalamic and Nigral Stimulation Modulates Temporal Gait Coordination and Cortical Gait-Network Activity in Parkinson's Disease,"Wagner, J. R., et al., 2022",IC decomposition
+Combined Subthalamic and Nigral Stimulation Modulates Temporal Gait Coordination and Cortical Gait-Network Activity in Parkinson's Disease,"Wagner, J. R., et al., 2022",IC rejection
+Rhythmic neural activity is comodulated with short-term gait modifications during first-time use of a dummy prosthesis: a pilot study,"Kooiman, V.G.M., et al., 2020",Raw data
+Rhythmic neural activity is comodulated with short-term gait modifications during first-time use of a dummy prosthesis: a pilot study,"Kooiman, V.G.M., et al., 2020",Notch filter
+Rhythmic neural activity is comodulated with short-term gait modifications during first-time use of a dummy prosthesis: a pilot study,"Kooiman, V.G.M., et al., 2020",High-pass filter
+Rhythmic neural activity is comodulated with short-term gait modifications during first-time use of a dummy prosthesis: a pilot study,"Kooiman, V.G.M., et al., 2020",Notch filter
+Rhythmic neural activity is comodulated with short-term gait modifications during first-time use of a dummy prosthesis: a pilot study,"Kooiman, V.G.M., et al., 2020",Artifact Rejection
+Rhythmic neural activity is comodulated with short-term gait modifications during first-time use of a dummy prosthesis: a pilot study,"Kooiman, V.G.M., et al., 2020",IC decomposition
+Rhythmic neural activity is comodulated with short-term gait modifications during first-time use of a dummy prosthesis: a pilot study,"Kooiman, V.G.M., et al., 2020",Artifact Rejection
+Rhythmic neural activity is comodulated with short-term gait modifications during first-time use of a dummy prosthesis: a pilot study,"Kooiman, V.G.M., et al., 2020",IC decomposition
+Rhythmic neural activity is comodulated with short-term gait modifications during first-time use of a dummy prosthesis: a pilot study,"Kooiman, V.G.M., et al., 2020",Clustering
+Unidirectional brain to muscle connectivity reveals motor cortex control of leg muscles during stereotyped walking,"Artoni, F., et al., 2017",Raw data
+Unidirectional brain to muscle connectivity reveals motor cortex control of leg muscles during stereotyped walking,"Artoni, F., et al., 2017",Artifact Rejection
+Unidirectional brain to muscle connectivity reveals motor cortex control of leg muscles during stereotyped walking,"Artoni, F., et al., 2017",IC decomposition
+Unidirectional brain to muscle connectivity reveals motor cortex control of leg muscles during stereotyped walking,"Artoni, F., et al., 2017",Epoching
+Unidirectional brain to muscle connectivity reveals motor cortex control of leg muscles during stereotyped walking,"Artoni, F., et al., 2017",Bandpass filter
+Unidirectional brain to muscle connectivity reveals motor cortex control of leg muscles during stereotyped walking,"Artoni, F., et al., 2017",High-pass filter
+Unidirectional brain to muscle connectivity reveals motor cortex control of leg muscles during stereotyped walking,"Artoni, F., et al., 2017",Notch filter
+Unidirectional brain to muscle connectivity reveals motor cortex control of leg muscles during stereotyped walking,"Artoni, F., et al., 2017",Artifact Rejection
+Unidirectional brain to muscle connectivity reveals motor cortex control of leg muscles during stereotyped walking,"Artoni, F., et al., 2017",IC rejection
+Unidirectional brain to muscle connectivity reveals motor cortex control of leg muscles during stereotyped walking,"Artoni, F., et al., 2017",Clustering
+Cognitive load reduces the effects of optic flow on gait and electrocortical dynamics during treadmill walking,"Malcolm, B. R., et al., 2018",Raw data
+Cognitive load reduces the effects of optic flow on gait and electrocortical dynamics during treadmill walking,"Malcolm, B. R., et al., 2018",High-pass filter
+Cognitive load reduces the effects of optic flow on gait and electrocortical dynamics during treadmill walking,"Malcolm, B. R., et al., 2018",Artifact Rejection
+Cognitive load reduces the effects of optic flow on gait and electrocortical dynamics during treadmill walking,"Malcolm, B. R., et al., 2018",Re-reference
+Cognitive load reduces the effects of optic flow on gait and electrocortical dynamics during treadmill walking,"Malcolm, B. R., et al., 2018",Artifact Rejection
+Cognitive load reduces the effects of optic flow on gait and electrocortical dynamics during treadmill walking,"Malcolm, B. R., et al., 2018",IC decomposition
+Cognitive load reduces the effects of optic flow on gait and electrocortical dynamics during treadmill walking,"Malcolm, B. R., et al., 2018",Dipole fitting
+Cognitive load reduces the effects of optic flow on gait and electrocortical dynamics during treadmill walking,"Malcolm, B. R., et al., 2018",IC rejection
+Cognitive load reduces the effects of optic flow on gait and electrocortical dynamics during treadmill walking,"Malcolm, B. R., et al., 2018",Artifact Rejection
+Cognitive load reduces the effects of optic flow on gait and electrocortical dynamics during treadmill walking,"Malcolm, B. R., et al., 2018",Clustering
+Mobile Brain/Body Imaging (MoBI): High-density electrical mapping of inhibitory processes during walking,"De Sanctis, P et al., 2012",Raw data
+Mobile Brain/Body Imaging (MoBI): High-density electrical mapping of inhibitory processes during walking,"De Sanctis, P et al., 2012",Bandpass filter
+Mobile Brain/Body Imaging (MoBI): High-density electrical mapping of inhibitory processes during walking,"De Sanctis, P et al., 2012",Artifact Rejection
+Mobile Brain/Body Imaging (MoBI): High-density electrical mapping of inhibitory processes during walking,"De Sanctis, P et al., 2012",Epoching
+The effects of blurred visual inputs with different levels on the cerebral activity during free level walking,"Ao, M., et al., 2023",Raw data
+The effects of blurred visual inputs with different levels on the cerebral activity during free level walking,"Ao, M., et al., 2023",Bandpass filter
+The effects of blurred visual inputs with different levels on the cerebral activity during free level walking,"Ao, M., et al., 2023",Epoching
+The effects of blurred visual inputs with different levels on the cerebral activity during free level walking,"Ao, M., et al., 2023",Baseline correction
+The effects of blurred visual inputs with different levels on the cerebral activity during free level walking,"Ao, M., et al., 2023",IC decomposition
+The effects of blurred visual inputs with different levels on the cerebral activity during free level walking,"Ao, M., et al., 2023",Artifact Rejection
+The effects of blurred visual inputs with different levels on the cerebral activity during free level walking,"Ao, M., et al., 2023",Re-reference
+The effects of blurred visual inputs with different levels on the cerebral activity during free level walking,"Ao, M., et al., 2023",Low-pass filter
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",Raw data
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",Channel removal
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",Bandpass filter
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",Downsample
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",IC decomposition
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",IC rejection
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",Artifact Rejection
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",Re-reference
+Neural signature of mobility-related everyday function in older adults at-risk of cognitive impairment,"De Sanctis, P., et al., 2023",Raw data
+Neural signature of mobility-related everyday function in older adults at-risk of cognitive impairment,"De Sanctis, P., et al., 2023",Re-reference
+Neural signature of mobility-related everyday function in older adults at-risk of cognitive impairment,"De Sanctis, P., et al., 2023",High-pass filter
+Neural signature of mobility-related everyday function in older adults at-risk of cognitive impairment,"De Sanctis, P., et al., 2023",Artifact Rejection
+Neural signature of mobility-related everyday function in older adults at-risk of cognitive impairment,"De Sanctis, P., et al., 2023",Re-reference
+Neural signature of mobility-related everyday function in older adults at-risk of cognitive impairment,"De Sanctis, P., et al., 2023",IC decomposition
+Neural signature of mobility-related everyday function in older adults at-risk of cognitive impairment,"De Sanctis, P., et al., 2023",Dipole fitting
+Neural signature of mobility-related everyday function in older adults at-risk of cognitive impairment,"De Sanctis, P., et al., 2023",IC rejection
+Effects of Matched and Mismatched Visual Flow and Gait Speeds on Human Electrocortical Spectral Power,"Cheng, Y.-P., et al., 2025",Raw data
+Effects of Matched and Mismatched Visual Flow and Gait Speeds on Human Electrocortical Spectral Power,"Cheng, Y.-P., et al., 2025",High-pass filter
+Effects of Matched and Mismatched Visual Flow and Gait Speeds on Human Electrocortical Spectral Power,"Cheng, Y.-P., et al., 2025",Re-reference
+Effects of Matched and Mismatched Visual Flow and Gait Speeds on Human Electrocortical Spectral Power,"Cheng, Y.-P., et al., 2025",Artifact Rejection
+Effects of Matched and Mismatched Visual Flow and Gait Speeds on Human Electrocortical Spectral Power,"Cheng, Y.-P., et al., 2025",Downsample
+Effects of Matched and Mismatched Visual Flow and Gait Speeds on Human Electrocortical Spectral Power,"Cheng, Y.-P., et al., 2025",IC decomposition
+Effects of Matched and Mismatched Visual Flow and Gait Speeds on Human Electrocortical Spectral Power,"Cheng, Y.-P., et al., 2025",Dipole fitting
+Effects of Matched and Mismatched Visual Flow and Gait Speeds on Human Electrocortical Spectral Power,"Cheng, Y.-P., et al., 2025",IC rejection
+Effects of Matched and Mismatched Visual Flow and Gait Speeds on Human Electrocortical Spectral Power,"Cheng, Y.-P., et al., 2025",Clustering
+Neural markers of proactive and reactive cognitive control are altered during walking: A Mobile Brain-Body Imaging (MoBI) study ☆,"Richardson, D. P., et al., 2022",Raw data
+Neural markers of proactive and reactive cognitive control are altered during walking: A Mobile Brain-Body Imaging (MoBI) study ☆,"Richardson, D. P., et al., 2022",Channel removal
+Neural markers of proactive and reactive cognitive control are altered during walking: A Mobile Brain-Body Imaging (MoBI) study ☆,"Richardson, D. P., et al., 2022",Bandpass filter
+Neural markers of proactive and reactive cognitive control are altered during walking: A Mobile Brain-Body Imaging (MoBI) study ☆,"Richardson, D. P., et al., 2022",Bad channel detection
+Neural markers of proactive and reactive cognitive control are altered during walking: A Mobile Brain-Body Imaging (MoBI) study ☆,"Richardson, D. P., et al., 2022",Artifact Rejection
+Neural markers of proactive and reactive cognitive control are altered during walking: A Mobile Brain-Body Imaging (MoBI) study ☆,"Richardson, D. P., et al., 2022",Downsample
+Neural markers of proactive and reactive cognitive control are altered during walking: A Mobile Brain-Body Imaging (MoBI) study ☆,"Richardson, D. P., et al., 2022",Re-reference
+Neural markers of proactive and reactive cognitive control are altered during walking: A Mobile Brain-Body Imaging (MoBI) study ☆,"Richardson, D. P., et al., 2022",IC decomposition
+Neural markers of proactive and reactive cognitive control are altered during walking: A Mobile Brain-Body Imaging (MoBI) study ☆,"Richardson, D. P., et al., 2022",IC rejection
+Neural markers of proactive and reactive cognitive control are altered during walking: A Mobile Brain-Body Imaging (MoBI) study ☆,"Richardson, D. P., et al., 2022",Epoching
+Neural markers of proactive and reactive cognitive control are altered during walking: A Mobile Brain-Body Imaging (MoBI) study ☆,"Richardson, D. P., et al., 2022",Artifact Rejection
+Electrocortical activity distinguishes between uphill and level walking in humans,"Bradford, J. C., et al., 2016",Raw data
+Electrocortical activity distinguishes between uphill and level walking in humans,"Bradford, J. C., et al., 2016",Artifact Rejection
+Electrocortical activity distinguishes between uphill and level walking in humans,"Bradford, J. C., et al., 2016",IC decomposition
+Electrocortical activity distinguishes between uphill and level walking in humans,"Bradford, J. C., et al., 2016",Dipole fitting
+Electrocortical activity distinguishes between uphill and level walking in humans,"Bradford, J. C., et al., 2016",IC rejection
+Electrocortical activity distinguishes between uphill and level walking in humans,"Bradford, J. C., et al., 2016",Clustering
+Electrocortical activity distinguishes between uphill and level walking in humans,"Bradford, J. C., et al., 2016",Epoching
+Electrocortical activity distinguishes between uphill and level walking in humans,"Bradford, J. C., et al., 2016",Baseline correction
+Characterizing neurocognitive impairments in Parkinson's disease with mobile EEG when walking and stepping over obstacles,"Mustile, M., et al., 2023",Raw data
+Characterizing neurocognitive impairments in Parkinson's disease with mobile EEG when walking and stepping over obstacles,"Mustile, M., et al., 2023",IC decomposition
+Characterizing neurocognitive impairments in Parkinson's disease with mobile EEG when walking and stepping over obstacles,"Mustile, M., et al., 2023",IC rejection
+Characterizing neurocognitive impairments in Parkinson's disease with mobile EEG when walking and stepping over obstacles,"Mustile, M., et al., 2023",Dipole fitting
+Characterizing neurocognitive impairments in Parkinson's disease with mobile EEG when walking and stepping over obstacles,"Mustile, M., et al., 2023",Epoching
+Characterizing neurocognitive impairments in Parkinson's disease with mobile EEG when walking and stepping over obstacles,"Mustile, M., et al., 2023",Artifact Rejection
+Maintaining task performance levels under cognitive load while walking requires widespread reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2024",Raw data
+Maintaining task performance levels under cognitive load while walking requires widespread reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2024",Notch filter
+Maintaining task performance levels under cognitive load while walking requires widespread reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2024",Downsample
+Maintaining task performance levels under cognitive load while walking requires widespread reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2024",Artifact Rejection
+Maintaining task performance levels under cognitive load while walking requires widespread reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2024",Re-reference
+Maintaining task performance levels under cognitive load while walking requires widespread reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2024",Bandpass filter
+Maintaining task performance levels under cognitive load while walking requires widespread reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2024",IC decomposition
+Maintaining task performance levels under cognitive load while walking requires widespread reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2024",Bandpass filter
+Maintaining task performance levels under cognitive load while walking requires widespread reallocation of neural resources: A Mobile Brain-Body Imaging (MoBI) study,"Patelaki, E., et al., 2024",IC rejection
+Electrocortical Activity Correlated with Locomotor Adaptation during Split-belt Treadmill Walking,"Jacobsen, N. A., et al., 2023",Raw data
+Electrocortical Activity Correlated with Locomotor Adaptation during Split-belt Treadmill Walking,"Jacobsen, N. A., et al., 2023",High-pass filter
+Electrocortical Activity Correlated with Locomotor Adaptation during Split-belt Treadmill Walking,"Jacobsen, N. A., et al., 2023",Re-reference
+Electrocortical Activity Correlated with Locomotor Adaptation during Split-belt Treadmill Walking,"Jacobsen, N. A., et al., 2023",Artifact Rejection
+Electrocortical Activity Correlated with Locomotor Adaptation during Split-belt Treadmill Walking,"Jacobsen, N. A., et al., 2023",Notch filter
+Electrocortical Activity Correlated with Locomotor Adaptation during Split-belt Treadmill Walking,"Jacobsen, N. A., et al., 2023",Artifact Rejection
+Electrocortical Activity Correlated with Locomotor Adaptation during Split-belt Treadmill Walking,"Jacobsen, N. A., et al., 2023",Re-reference
+Electrocortical Activity Correlated with Locomotor Adaptation during Split-belt Treadmill Walking,"Jacobsen, N. A., et al., 2023",IC decomposition
+Electrocortical Activity Correlated with Locomotor Adaptation during Split-belt Treadmill Walking,"Jacobsen, N. A., et al., 2023",IC rejection
+Young adults who improve performance during dual-task walking show more flexible reallocation of cognitive resources: a mobile brain-body imaging (MoBI) study,"Patelaki, E., et al., 2022",Raw data
+Young adults who improve performance during dual-task walking show more flexible reallocation of cognitive resources: a mobile brain-body imaging (MoBI) study,"Patelaki, E., et al., 2022",Notch filter
+Young adults who improve performance during dual-task walking show more flexible reallocation of cognitive resources: a mobile brain-body imaging (MoBI) study,"Patelaki, E., et al., 2022",Downsample
+Young adults who improve performance during dual-task walking show more flexible reallocation of cognitive resources: a mobile brain-body imaging (MoBI) study,"Patelaki, E., et al., 2022",Bad channel detection
+Young adults who improve performance during dual-task walking show more flexible reallocation of cognitive resources: a mobile brain-body imaging (MoBI) study,"Patelaki, E., et al., 2022",Artifact Rejection
+Young adults who improve performance during dual-task walking show more flexible reallocation of cognitive resources: a mobile brain-body imaging (MoBI) study,"Patelaki, E., et al., 2022",Re-reference
+Young adults who improve performance during dual-task walking show more flexible reallocation of cognitive resources: a mobile brain-body imaging (MoBI) study,"Patelaki, E., et al., 2022",Bandpass filter
+Young adults who improve performance during dual-task walking show more flexible reallocation of cognitive resources: a mobile brain-body imaging (MoBI) study,"Patelaki, E., et al., 2022",IC decomposition
+Young adults who improve performance during dual-task walking show more flexible reallocation of cognitive resources: a mobile brain-body imaging (MoBI) study,"Patelaki, E., et al., 2022",IC rejection
+Dynamics of brain-muscle networks reveal effects of age and somatosensory function on gait,"Roeder, L., et al., 2024",Raw data
+Dynamics of brain-muscle networks reveal effects of age and somatosensory function on gait,"Roeder, L., et al., 2024",Normalization
+Dynamics of brain-muscle networks reveal effects of age and somatosensory function on gait,"Roeder, L., et al., 2024",Artifact Rejection
+Dynamics of brain-muscle networks reveal effects of age and somatosensory function on gait,"Roeder, L., et al., 2024",Bandpass filter
+Dynamics of brain-muscle networks reveal effects of age and somatosensory function on gait,"Roeder, L., et al., 2024",Re-reference
+Dynamics of brain-muscle networks reveal effects of age and somatosensory function on gait,"Roeder, L., et al., 2024",IC decomposition
+Dynamics of brain-muscle networks reveal effects of age and somatosensory function on gait,"Roeder, L., et al., 2024",IC rejection
+Control of Movement Gait speed-related changes in electrocortical activity in younger and older adults,"Salminen, J., et al., 2025",Raw data
+Control of Movement Gait speed-related changes in electrocortical activity in younger and older adults,"Salminen, J., et al., 2025",High-pass filter
+Control of Movement Gait speed-related changes in electrocortical activity in younger and older adults,"Salminen, J., et al., 2025",Low-pass filter
+Control of Movement Gait speed-related changes in electrocortical activity in younger and older adults,"Salminen, J., et al., 2025",Notch filter
+Control of Movement Gait speed-related changes in electrocortical activity in younger and older adults,"Salminen, J., et al., 2025",Artifact Rejection
+Control of Movement Gait speed-related changes in electrocortical activity in younger and older adults,"Salminen, J., et al., 2025",Re-reference
+Control of Movement Gait speed-related changes in electrocortical activity in younger and older adults,"Salminen, J., et al., 2025",Artifact Rejection
+Control of Movement Gait speed-related changes in electrocortical activity in younger and older adults,"Salminen, J., et al., 2025",Re-reference
+Control of Movement Gait speed-related changes in electrocortical activity in younger and older adults,"Salminen, J., et al., 2025",IC decomposition
+Control of Movement Gait speed-related changes in electrocortical activity in younger and older adults,"Salminen, J., et al., 2025",IC rejection
+Control of Movement Gait speed-related changes in electrocortical activity in younger and older adults,"Salminen, J., et al., 2025",Clustering
+Control of Movement Gait speed-related changes in electrocortical activity in younger and older adults,"Salminen, J., et al., 2025",Artifact Rejection
