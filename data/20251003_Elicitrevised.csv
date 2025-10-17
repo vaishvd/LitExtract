@@ -19,7 +19,7 @@ Study of the Brain Functional Connectivity Processes During Multi-Movement State
 7. Set threshold for channel cross-correlation at 0.7 and SD value for repair bursts at 10.
 8. Conducted Independent Component Analysis (ICA) using Infomax algorithm to remove ocular artifacts.
 9. Used channel interpolation as part of ICA process.";['Raw data', 'Channel removal', 'Bandpass filter', 'Artifact Rejection', 'Re-reference', 'Artifact Rejection', 'IC decomposition', 'IC rejection','Artifact Rejection'];ASR, Bad channel removal, Eye artifact removal;['PSD', 'ERD/ERS']
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters;Jacobsen, N. A., et al., 2024;PMC11242882.pdf;Healthy adults;Treadmill walking;Yes;Active electrodes;"Force plates;OMC";"1. High-pass filtering at 1 Hz to mitigate slow drift.
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters;Jacobsen, N.A., et al., 2024;PMC11242882.pdf;Healthy adults;Treadmill walking;Yes;Active electrodes;"Force plates;OMC";"1. High-pass filtering at 1 Hz to mitigate slow drift.
 2. Re-referencing scalp, muscle, and noise channels using the average across channels after removing bad channels.
 3. Using the iCanClean algorithm to reduce motion and muscle artifacts through three cleaning cycles.
 4. Eliminating 60 Hz line noise using cleanline().
