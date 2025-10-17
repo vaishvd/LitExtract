@@ -20,19 +20,19 @@ Study of the Brain Functional Connectivity Processes During Multi-Movement State
 Study of the Brain Functional Connectivity Processes During Multi-Movement States of the Lower Limbs,"Wei, P., et al., 2024",IC decomposition
 Study of the Brain Functional Connectivity Processes During Multi-Movement States of the Lower Limbs,"Wei, P., et al., 2024",IC rejection
 Study of the Brain Functional Connectivity Processes During Multi-Movement States of the Lower Limbs,"Wei, P., et al., 2024",Artifact Rejection
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Raw data
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",High-pass filter
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Artifact Rejection
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Re-reference
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Artifact Rejection
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Notch filter
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Artifact Rejection
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Re-reference
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",IC decomposition
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",IC rejection
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Downsample
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Dipole fitting
-Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N. A., et al., 2024",Clustering
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",Raw data
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",High-pass filter
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",Artifact Rejection
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",Re-reference
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",Artifact Rejection
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",Notch filter
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",Artifact Rejection
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",Re-reference
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",IC decomposition
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",IC rejection
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",Downsample
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",Dipole fitting
+Exploring Electrocortical Signatures of Gait Adaptation: Differential Neural Dynamics in Slow and Fast Gait Adapters,"Jacobsen, N.A., et al., 2024 (b)",Clustering
 The speed and phase of locomotion dictate saccade probability and simultaneous low-frequency power spectra,"Barnes, L., et al., 2024",Raw data
 The speed and phase of locomotion dictate saccade probability and simultaneous low-frequency power spectra,"Barnes, L., et al., 2024",Re-reference
 The speed and phase of locomotion dictate saccade probability and simultaneous low-frequency power spectra,"Barnes, L., et al., 2024",Bandpass filter
@@ -211,15 +211,15 @@ Cognitive performance and brain dynamics during walking with a novel bionic foot
 Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",Artifact Rejection
 Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",IC decomposition
 Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study,"De Pauw, K., et al., 2019",IC rejection
-Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",Raw data
-Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",High-pass filter
-Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",Artifact Rejection
-Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",Re-reference
-Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",Downsample
-Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",IC decomposition
-Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",IC rejection
-Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",Dipole fitting
-Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019",Clustering
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019 (b)",Raw data
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019 (b)",High-pass filter
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019 (b)",Artifact Rejection
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019 (b)",Re-reference
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019 (b)",Downsample
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019 (b)",IC decomposition
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019 (b)",IC rejection
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019 (b)",Dipole fitting
+Human electrocortical dynamics while stepping over obstacles,"Nordin, A. D., et al., 2019 (b)",Clustering
 Rapid changes in arousal states of healthy volunteers during robot-assisted gait training: a quantitative time-series electroencephalography study,"Nakanishi, Y., et al., 2014",Raw data
 Rapid changes in arousal states of healthy volunteers during robot-assisted gait training: a quantitative time-series electroencephalography study,"Nakanishi, Y., et al., 2014",Low-pass filter
 Rapid changes in arousal states of healthy volunteers during robot-assisted gait training: a quantitative time-series electroencephalography study,"Nakanishi, Y., et al., 2014",Artifact Rejection
@@ -476,14 +476,14 @@ The effects of blurred visual inputs with different levels on the cerebral activ
 The effects of blurred visual inputs with different levels on the cerebral activity during free level walking,"Ao, M., et al., 2023",Artifact Rejection
 The effects of blurred visual inputs with different levels on the cerebral activity during free level walking,"Ao, M., et al., 2023",Re-reference
 The effects of blurred visual inputs with different levels on the cerebral activity during free level walking,"Ao, M., et al., 2023",Low-pass filter
-Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",Raw data
-Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",Channel removal
-Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",Bandpass filter
-Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",Downsample
-Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",IC decomposition
-Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",IC rejection
-Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",Artifact Rejection
-Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022",Re-reference
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022 (b)",Raw data
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022 (b)",Channel removal
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022 (b)",Bandpass filter
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022 (b)",Downsample
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022 (b)",IC decomposition
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022 (b)",IC rejection
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022 (b)",Artifact Rejection
+Assessing Neurokinematic and Neuromuscular Connectivity During Walking Using Mobile Brain-Body Imaging,"Zhao, M., et al., 2022 (b)",Re-reference
 Neural signature of mobility-related everyday function in older adults at-risk of cognitive impairment,"De Sanctis, P., et al., 2023",Raw data
 Neural signature of mobility-related everyday function in older adults at-risk of cognitive impairment,"De Sanctis, P., et al., 2023",Re-reference
 Neural signature of mobility-related everyday function in older adults at-risk of cognitive impairment,"De Sanctis, P., et al., 2023",High-pass filter
