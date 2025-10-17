@@ -1,37 +1,31 @@
 import pandas as pd
 
+
 def split_and_clean(df: pd.DataFrame, column: str) -> pd.DataFrame:
     """
-    Splits multi-valued entries (semicolon or comma separated) in `column`
-    into separate rows, preserving study metadata.
-    Automatically detects title/citation column names.
+    Splits multi-valued entries in `column` into separate rows,
+    preserving study metadata. Only splits on semicolon or comma.
+    Slashes within terms (e.g., ERD/ERS) are preserved.
     """
-    # detect metadata columns dynamically
-    col_map = {c.lower(): c for c in df.columns}
-    title_col = col_map.get("title")
-    citation_col = col_map.get("citation")
+    required_cols = ["title", "citation", column]
+    missing_cols = [c for c in required_cols if c not in df.columns]
+    if missing_cols:
+        raise KeyError(f"Missing columns in dataframe: {missing_cols}")
 
-    # handle missing
-    if not title_col or not citation_col:
-        print("Warning: 'Title' or 'Citation' column not found in DataFrame.")
-        return pd.DataFrame(columns=["title", "citation", column])
+    temp = df[required_cols].copy()
 
-    # if target column missing, skip
-    if column not in df.columns:
-        print(f"Column '{column}' not found.")
-        return pd.DataFrame(columns=[title_col, citation_col, column])
+    # Clean list-like strings
+    temp[column] = temp[column].astype(str).str.replace(r"[\[\]'\"]", "", regex=True)
 
-    temp = df[[title_col, citation_col, column]].copy()
+    # Split only on ; or , and explode to multiple rows
+    exploded = temp[column].str.split(r"[;,]").explode().str.strip()
+    
+    # Keep metadata aligned by repeating original rows
+    df_out = temp.loc[exploded.index, ["title", "citation"]].copy()
+    df_out[column] = exploded
 
-    # Clean list-like strings and split
-    temp[column] = (
-        temp[column]
-        .astype(str)
-        .str.replace(r"[\[\]'\"]", "", regex=True)
-        .str.split(r"[;,/]\s*")
-    )
-
-    temp = temp.explode(column, ignore_index=True)
-    temp[column] = temp[column].str.strip()
-    temp = temp[temp[column].notna() & (temp[column] != "")]
-    return temp
+    # Drop empty entries
+    df_out = df_out[df_out[column].notna() & (df_out[column] != "")]
+    df_out.reset_index(drop=True, inplace=True)
+    
+    return df_out

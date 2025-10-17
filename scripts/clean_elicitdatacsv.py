@@ -10,11 +10,7 @@ df = pd.read_csv(data_path, sep=";")
 print(f"Loaded {len(df)} records from {data_path.name}")
 
 # Normalize column names
-df.columns = (
-    df.columns.str.strip()
-    .str.lower()
-    .str.replace(r"[\s\-]+", "_", regex=True)
-)
+df.columns = df.columns.str.strip().str.lower().str.replace(r"[\s\-]+", "_", regex=True)
 
 # Clean and standardize text fields 
 text_cols = [
@@ -33,11 +29,7 @@ for col in text_cols:
         )
 
 # Replace invalid placeholders with NaN 
-df.replace(
-    to_replace=["", "nan", "none", "NaN", "None", "NULL"],
-    value=np.nan,
-    inplace=True,
-)
+df.replace(["", "nan", "none", "NaN", "None", "NULL"], np.nan, inplace=True)
 
 # Drop empty or duplicate rows
 df = df.drop_duplicates().dropna(how="all")
