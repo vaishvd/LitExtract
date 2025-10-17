@@ -36,14 +36,14 @@ The speed and phase of locomotion dictate saccade probability and simultaneous l
 5. Baseline correction: Baseline correction was applied using the 100-ms pre-trial period.
 6. Outlier removal: Outliers were excluded based on standard deviation exceeding 1.5 interquartile ranges.
 7. Multiple comparison correction: Non-parametric cluster-based permutation tests were used.";['Raw data', 'Re-reference','Bandpass filter', 'Artifact Rejection', 'Epoching',  'Baseline correction'];Bad channel removal;['PSD', 'ERSP', 'ERD/ERS']
-Cortical Correlates of Gait Compensation Strategies in Parkinson Disease;Tosserams, A., et al., 2022;PMC9306676.pdf;People with Parkinson's disease;Treadmill walking;No;Active electrodes;OMC;"1. Bandpass filtering between 2 and 200Hz (5,120th order finite impulse response filter, Hamming window, zero-phase shift).
+Cortical Correlates of Gait Compensation Strategies in Parkinson Disease;Tosserams, A., et al., 2022;PMC9306676.pdf;PwPD;Treadmill walking;No;Active electrodes;OMC;"1. Bandpass filtering between 2 and 200Hz (5,120th order finite impulse response filter, Hamming window, zero-phase shift).
 2. Downsampled to 512Hz.
 3. Channel rejection using clean_rawdata plugin (v2.3) for low correlation (<0.6) and artifact subspace reconstruction (ASR v0.13; threshold: SD = 15).
 4. Artifact removal using pop_jointprob function (threshold: SD = 6).
 5. Independent component analysis (ICA) using Infomax.
 6. Visual inspection of independent components with <15% residual variance to exclude nonbrain activity.
 7. Segmentation according to participant-specific mean gait cycle duration for PSD and spectrogram computation.";['Raw data','Bandpass filter','Downsample','Artifact Rejection','IC decomposition',  'IC rejection'];clean_rawdata, ASR, Epoch rejection;['PSD', 'ERD/ERS']
-Cortical networks of parkinsonian gait: a metabolic and functional connectivity study;Pellegrini, F., et al., 2024;PMC11514930.pdf;People with Parkinson's disease;Overground walking;No;Not mentioned;IMU;"1. Resample EEG data to 125 Hz.
+Cortical networks of parkinsonian gait: a metabolic and functional connectivity study;Pellegrini, F., et al., 2024;PMC11514930.pdf;PwPD;Overground walking;No;Not mentioned;IMU;"1. Resample EEG data to 125 Hz.
 2. Apply zero-phase lowpass filter at 45 Hz and highpass filter at 1 Hz.
 3. Eliminate line noise using a zero-phase bandstop filter (47-53 Hz).
 4. Identify and remove artifactual channels and segments using automated artifact rejection.
@@ -80,7 +80,7 @@ Auditory Cue Effects on Gait-Phase-Dependent Electroencephalogram (EEG) Modulati
 4. Removal of artifact ICs (ocular, glossokinetic, muscular).
 5. Low-pass filtering (4 Hz cutoff for delta band, 7.5 Hz cutoff for theta band, 12 Hz cutoff for alpha band, 30 Hz cutoff for beta band) using a fourth-order Butterworth filter.
 6. Amplitude normalization to local peak value.
-7. Time normalization to 100 data points.";['Raw data', 'Bandpass filter', 'Notch filter', 'IC decomposition','Artifact Rejection', 'IC rejection', 'Low-pass filter', 'Normalization'];NA;['ERD/ERS']
+7. Time normalization to 100 data points.";['Raw data', 'Bandpass filter', 'Notch filter', 'IC decomposition','Artifact Rejection', 'IC rejection', 'Low-pass filter', 'Normalization'];;['ERD/ERS']
 Association between gait speed deterioration and EEG abnormalities;Garcı´a-Agustin, D., et al., 2024;PMC11149873.pdf;Healthy adults;Overground walking;No;Not mentioned;Other;"1. EEG recording using a 32-channel system with electrodes placed according to the international 10/20 placement system.
 2. Acquisition parameters: gain of 10,000, pass-band filters between 0.3-30 Hz, sampling rate of 200 Hz.
 3. Participants asked to close and open their eyes to explore reactivity and avoid drowsiness.
@@ -100,7 +100,7 @@ Neural oscillations during motor imagery of complex gait: an HdEEG study;Putzolu
 3. Reject ocular and muscular artifacts using Independent Component Analysis (ICA).
 4. Subtract time courses of ICs classified as bad from hdEEG data.
 5. Re-reference clean hdEEG recordings using the average re-reference approach.";['Raw data', 'Bad channel detection','Artifact Rejection', 'Bandpass filter', 'IC decomposition', 'IC rejection', 'Re-reference'];Bad channel interpolation;['ERD/ERS']
-Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study;Stuart, S., et al., 2021;PMC8593320.pdf;People with Parkinson's disease;Overground walking;No;Not mentioned;IMU;"1. Downsample EEG data from 2000 Hz to 500 Hz.
+Brain Activity Response to Visual Cues for Gait Impairment in Parkinson's Disease: An EEG Study;Stuart, S., et al., 2021;PMC8593320.pdf;PwPD;Overground walking;No;Not mentioned;IMU;"1. Downsample EEG data from 2000 Hz to 500 Hz.
 2. Apply band-pass filter in the 1-200 Hz range.
 3. Use cleanLineNoise function to reduce line noise.
 4. Conduct visual inspection to remove 'bad' data segments.
@@ -147,7 +147,7 @@ Scalp recorded theta activity is modulated by reward, direction, and speed durin
 11. Conduct artifact rejection with specific criteria for feedback-locked segments and a customized window for path analysis.
 12. Identify and interpolate bad channels using nearest neighbors' signals.
 13. Write data to MATLAB files for further processing.";['Raw data','Bandpass filter', 'IC decomposition', 'IC rejection', 'Epoching', 'Re-reference', 'Baseline correction', 'Artifact Rejection', 'Bad channel detection', 'Artifact Rejection'];Eye artifact removal, Bad channel interpolation;['ERSP', 'ERD/ERS']
-Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initiation after Instructed Arm Swing;Weersink, J. B., et al., 2020;PMC7683047.pdf;Healthy adults and People with Parkinson's disease;Overground walking;No;Active electrodes;"IMU;Other";"1. Downsampled EEG recordings to 256 Hz.
+Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initiation after Instructed Arm Swing;Weersink, J. B., et al., 2020;PMC7683047.pdf;Healthy adults & PwPD;Overground walking;No;Active electrodes;"IMU;Other";"1. Downsampled EEG recordings to 256 Hz.
 2. Applied high-pass filter at 1 Hz.
 3. Removed powerline noise at 50 and 100 Hz using Cleanline technique.
 4. Removed channels with artifacts based on magnitude, kurtosis, and correlation criteria.
@@ -156,7 +156,7 @@ Pre-Movement Cortico-Muscular Dynamics Underlying Improved Parkinson Gait Initia
 7. Epooched data around movement onset.
 8. Computed equivalent current dipole models for each independent component.
 9. Removed non-electrocortical independent components.";['Raw data', 'Downsample', 'High-pass filter', 'Notch filter', 'Artifact Rejection', 'Re-reference', 'IC decomposition', 'Epoching', 'Dipole fitting', 'IC rejection'];Bad channel removal, Bad channel interpolation, Eye artifact removal, Epoch rejection;['ERSP', 'ERD/ERS']
-Connectivity of EEG synchronization networks increases for Parkinson's disease patients with freezing of gait;Asher, E., et al., 2021;PMC8405655.pdf;Healthy adults and People with Parkinson's disease;Overground walking;No;Passive electrodes;Other;"1. Omitting data from electrodes with high impedance (>10 kΩ) and high standard deviation.
+Connectivity of EEG synchronization networks increases for Parkinson's disease patients with freezing of gait;Asher, E., et al., 2021;PMC8405655.pdf;Healthy adults & PwPD;Overground walking;No;Passive electrodes;Other;"1. Omitting data from electrodes with high impedance (>10 kΩ) and high standard deviation.
 2. Data downsampling from 2048 to 256 Hz.
 3. Basic finite impulse response high-pass filtering with a threshold of 0.1 Hz.
 4. Applying Independent Component Analysis (ICA) for the removal of eye movements and general movement artifacts.
@@ -194,14 +194,14 @@ Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimo
 13. Artifact subspace reconstruction (ASR)
 14. Frequency domain noise cancellation
 15. Principal component analysis (PCA) and canonical component analysis (CCA) for artifact removal";['Raw data', 'High-pass filter', 'Bad channel detection', 'Artifact Rejection', 'Re-reference', 'Downsample', 'IC decomposition', 'Dipole fitting', 'Clustering', 'Artifact Rejection', 'IC rejection'];ASR, PCA, CCA;['PSD', 'ERSP', 'ERD/ERS']
-Prediction of gait intention from pre-movement EEG signals: a feasibility study;Shafiul Hasan, S. M., et al., 2020;PMC7164221.pdf;Healthy adults and Other clinical cohort;Overground walking;No;Active electrodes;"Foot sole sensors;IMU";"1. Downsample the signal to 250 Hz for computational efficiency.
+Prediction of gait intention from pre-movement EEG signals: a feasibility study;Shafiul Hasan, S. M., et al., 2020;PMC7164221.pdf;Healthy adults & Other clinical cohort;Overground walking;No;Active electrodes;"Foot sole sensors;IMU";"1. Downsample the signal to 250 Hz for computational efficiency.
 2. Apply a high-pass filter with a 1 Hz cutoff to remove DC drift.
 3. Use a notch filter to remove line noise at 60 Hz.
 4. Perform Artifact Subspace Reconstruction (ASR) to remove large-amplitude noise and artifacts.
 5. Re-reference the signal to a common average.
 6. Apply Adaptive Mixture ICA (AMICA) for ICA decomposition.
 7. Visually inspect and reject artefactual independent components.";['Raw data', 'Downsample', 'High-pass filter', 'Notch filter', 'Artifact Rejection', 'Re-reference', 'IC decomposition', 'IC rejection'];ASR;['ERD/ERS']
-Corticomuscular control of walking in older people and people with parkinson's disease;Roeder, L., et al., 2020;PMC7031238.pdf;Healthy adults and People with Parkinson's disease;Treadmill walking and Overground walking;No;Passive electrodes;Footswitches;"1. Visual inspection and removal of segments with excessive noise.
+Corticomuscular control of walking in older people and people with parkinson's disease;Roeder, L., et al., 2020;PMC7031238.pdf;Healthy adults & PwPD;Treadmill walking and Overground walking;No;Passive electrodes;Footswitches;"1. Visual inspection and removal of segments with excessive noise.
 2. Band-pass filtering (2nd order Butterworth, 0.5-70 Hz).
 3. Re-referencing to a common average reference.
 4. Independent component analysis (ICA) using the extended infomax algorithm.
@@ -219,7 +219,7 @@ Electrocortical correlates of human levelground, slope, and stair walking;Luu, T
 9. Computation of equivalent current dipoles
 10. Removal of ICs not meeting variance threshold or identified as non-brain artifacts
 11. K-means clustering of remaining ICs";['Raw data', 'Channel removal', 'High-pass filter', 'Artifact Rejection', 'Re-reference', 'Artifact Rejection', 'Downsample', 'IC decomposition', 'Dipole fitting', 'IC rejection', 'Clustering'];ASR, Bad channel removal;['PSD', 'ERSP', 'ERD/ERS']
-Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study;De Pauw, K., et al., 2019;PMC6447229.pdf;Healthy adults and Other clinical cohort;Treadmill walking;No;Active electrodes;Foot sole sensors ;"1. Removal of bad channels based on visual inspection and statistical measures (e.g., kurtosis).
+Cognitive performance and brain dynamics during walking with a novel bionic foot: A pilot study;De Pauw, K., et al., 2019;PMC6447229.pdf;Healthy adults & Other clinical cohort;Treadmill walking;No;Active electrodes;Foot sole sensors ;"1. Removal of bad channels based on visual inspection and statistical measures (e.g., kurtosis).
 2. Interpolation of removed channels using spherical splines.
 3. Re-referencing to an average reference.
 4. Down-sampling to 512Hz.
@@ -245,7 +245,7 @@ Rapid changes in arousal states of healthy volunteers during robot-assisted gait
 5. Calculate power density of each segment using fast Fourier transform with a Hamming window.
 6. Divide absolute power density into five frequency bands (delta, theta, alpha 1, alpha 2, beta).
 7. Calculate power density at central and occipital regions using Cz and O1/O2 values.";['Raw data','Low-pass filter', 'Artifact Rejection'];Manual selection;['PSD', 'ERD/ERS']
-Decoding the Attentional Demands of Gait through EEG Gamma Band Features;Costa, Á., et al., 2016;PMC4846000.pdf;Healthy adults and Other clinical cohort;Treadmill walking;No;Active electrodes;Other;"1. Bandpass filtering between 0.5 and 100 Hz to remove blink and EMG artifacts.
+Decoding the Attentional Demands of Gait through EEG Gamma Band Features;Costa, Á., et al., 2016;PMC4846000.pdf;Healthy adults & Other clinical cohort;Treadmill walking;No;Active electrodes;Other;"1. Bandpass filtering between 0.5 and 100 Hz to remove blink and EMG artifacts.
 2. Visual inspection and removal/reconstruction of noisy channels using spatial interpolation.
 3. Standardization of signals using Maximum Visual Threshold (MV Threshold).
 4. Computation of spectrum for each epoch to extract features for different frequency bands.
@@ -320,7 +320,7 @@ Neural predictors of gait stability when walking freely in the real-world;Pizzam
 7. Interpolation of previously removed bad channels and re-referencing to the common average reference.
 8. Segmentation into epochs of 1.8 s duration around each right heel strike.
 9. Final visual inspection to check the quality of the cleaned data and remove still noisy epochs.";['Raw data', 'Bandpass filter', 'Notch filter', 'Bad channel detection', 'Artifact Rejection', 'Re-reference', 'IC decomposition', 'IC rejection','Artifact Rejection', 'Re-reference', 'Epoching'];Manual selection, Bad channel removal, Eye artifact removal, Bad channel interpolation, Epoch rejection;['PSD', 'ERD/ERS']
-Is Cortical Activation During Walking Different Between Parkinson's Disease Motor Subtypes?;Orcioli-Silva, D., et al., 2020;PMID_32674140.pdf;People with Parkinson's disease;Overground walking;No;Passive electrodes;Other;"1. EEG data recorded using a 32-channel system with a sampling rate of 500 Hz.
+Is Cortical Activation During Walking Different Between Parkinson's Disease Motor Subtypes?;Orcioli-Silva, D., et al., 2020;PMID_32674140.pdf;PwPD;Overground walking;No;Passive electrodes;Other;"1. EEG data recorded using a 32-channel system with a sampling rate of 500 Hz.
 2. Data processed using EEGLAB 13.0.1b in Matlab.
 3. Synchronization with accelerometer data to estimate gait cycle events.
 4. Segmentation into gait cycles (epochs).
@@ -385,7 +385,7 @@ Hybrid Human-Machine Interface for Gait Decoding Through Bayesian Fusion of EEG 
 11. Application of a CAR filter to each window.
 12. Extraction of the δ-θ band (1-8 Hz) using a 4th-order zerolag Butterworth filter.
 13. Normalization to have zero mean and unit standard deviation.
-14. Obtaining a single feature per channel by taking the block average of the processed EEG signals.";['Raw data', 'High-pass filter', 'Low-pass filter', 'Notch filter', 'Artifact Rejection', 'High-pass filter', 'Low-pass filter', 'Downsample', 'Artifact Rejection', 'IC decomposition', 'IC rejection', 'Re-reference', 'Normalization'];Manual selection, CAR_filter, ASR;['ERD/ERS']
+14. Obtaining a single feature per channel by taking the block average of the processed EEG signals.";['Raw data', 'High-pass filter', 'Low-pass filter', 'Notch filter', 'Artifact Rejection', 'High-pass filter', 'Low-pass filter', 'Downsample', 'Artifact Rejection', 'IC decomposition', 'IC rejection', 'Re-reference', 'Normalization'];Manual selection, CAR filter, ASR;['ERD/ERS']
 Negligible Motion Artifacts in Scalp Electroencephalography (EEG) During Treadmill Walking;Nathan, K., et al., 2016;PMC4710850.pdf;Healthy adults;Treadmill walking;No;Active electrodes;"Footswitches;IMU";"1. Online referencing of EEG data to channel FCZ.
 2. Application of low-pass analog filters set from DC-1000 Hz.
 3. Digitization of EEG signals at 1 kHz.
@@ -402,7 +402,7 @@ A walk in the park? Characterizing gait-related artifacts in mobile EEG recordin
 9. Interpolate rejected channels and fit dipoles using DIPFIT.
 10. Reject components likely to be artifacts.
 11. Back-project remaining components to sensor space.";['Raw data', 'High-pass filter', 'Low-pass filter', 'Downsample', 'Artifact Rejection', 'Re-reference', 'Artifact Rejection', 'IC decomposition', 'Artifact Rejection', 'Dipole fitting', 'IC rejection'];clean_rawdata, ASR, Bad channel interpolation;['ERSP', 'ERD/ERS']
-Effects of theta burst stimulation on the Parkinsonian gait disorder and cortical gait-network activity;Dutke, J., et al., 2025;PMID_40383539.pdf;Healthy adults and People with Parkinson's disease;Overground walking;No;Active electrodes;IMU;"1. EEG signals were recorded with a sampling rate of 500 Hz and impedances <10 kOhm.
+Effects of theta burst stimulation on the Parkinsonian gait disorder and cortical gait-network activity;Dutke, J., et al., 2025;PMID_40383539.pdf;Healthy adults & PwPD;Overground walking;No;Active electrodes;IMU;"1. EEG signals were recorded with a sampling rate of 500 Hz and impedances <10 kOhm.
 2. EEG data were referenced to average.
 3. High-pass filtered (Kaiser-windowed FIR filter with a cutoff frequency of 0.75 Hz, bandwidth 0.5 Hz, stopband attenuation -80 dB) to reduce slow drifts.
 4. Low-pass filtered (Kaiser-windowed FIR filter with a cutoff frequency at 95 Hz, bandwidth 10 Hz, stoppband attenuation -80 dB) to eliminate high-frequency DBS artifacts.
@@ -444,7 +444,7 @@ Paradoxical improvement of cognitive control in older adults under dual-task wal
 9. Identify and remove artifact ICs using ICLabel algorithm.
 10. Back-project remaining ICs to sensor space.
 11. Split processed EEG activity into temporal epochs.";['Raw data', 'Bandpass filter', 'Bad channel detection','Artifact Rejection', 'Re-reference','Bandpass filter', 'IC decomposition', 'IC rejection', 'Epoching'];Bad channel removal, Bad channel interpolation;['ERD/ERS']
-Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacles in Parkinson's Disease;Vitório, R., et al., 2023;PMC10224292.pdf;Healthy adults and People with Parkinson's disease;Overground walking;No;Active electrodes;Other;"1. Merge individual EEG datasets into a single dataset for each participant.
+Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacles in Parkinson's Disease;Vitório, R., et al., 2023;PMC10224292.pdf;Healthy adults & PwPD;Overground walking;No;Active electrodes;Other;"1. Merge individual EEG datasets into a single dataset for each participant.
 2. Down-sample from 1024 Hz to 512 Hz.
 3. Apply band-pass filter (2-50 Hz).
 4. Remove channels with substantial artifacts.
@@ -455,7 +455,7 @@ Electrocortical Dynamics of Usual Walking and the Planning to Step over Obstacle
 9. Model independent components as current dipoles using DIPFIT.
 10. Remove components that are artifactual or do not meet criteria.
 11. Cluster remaining components using k-means algorithm.";['Raw data', 'Downsample', 'Bandpass filter', 'Artifact Rejection', 'Re-reference', 'Artifact Rejection', 'IC decomposition', 'IC rejection', 'Dipole fitting', 'Clustering'];Bad channel removal, Automated rejection;['PSD', 'ERD/ERS']
-Combined Subthalamic and Nigral Stimulation Modulates Temporal Gait Coordination and Cortical Gait-Network Activity in Parkinson's Disease;Wagner, J. R., et al., 2022;PMC8919031.pdf;Healthy adults and People with Parkinson's disease;Others;No;Active electrodes;IMU;"1. Pre-processing using EEGLAB toolbox.
+Combined Subthalamic and Nigral Stimulation Modulates Temporal Gait Coordination and Cortical Gait-Network Activity in Parkinson's Disease;Wagner, J. R., et al., 2022;PMC8919031.pdf;Healthy adults & PwPD;Others;No;Active electrodes;IMU;"1. Pre-processing using EEGLAB toolbox.
 2. Low-pass filtering at 100 Hz to eliminate high-frequency DBS artifacts.
 3. Down-sampling to 1,000 Hz.
 4. High-pass filtering at 0.75 Hz to minimize slow drifts.
@@ -555,7 +555,7 @@ Electrocortical activity distinguishes between uphill and level walking in human
 8. Compute spectral power for each IC and time-lock spectrograms to gait events.
 9. Time-warp spectrograms for consistency.
 10. Subtract baseline to visualize spectral changes across the gait cycle.";['Raw data', 'Artifact Rejection', 'IC decomposition', 'Dipole fitting', 'IC rejection', 'Clustering', 'Epoching', 'Baseline correction'];Bad channel removal;['PSD', 'ERSP', 'ERD/ERS']
-Characterizing neurocognitive impairments in Parkinson's disease with mobile EEG when walking and stepping over obstacles;Mustile, M., et al., 2023;PMC10724048.pdf;Healthy adults and People with Parkinson's disease;Overground walking;No;Passive electrodes;OMC;"1. EEG data recording using 32 Ag/AgCl electrodes positioned according to the International 10-20 system.
+Characterizing neurocognitive impairments in Parkinson's disease with mobile EEG when walking and stepping over obstacles;Mustile, M., et al., 2023;PMC10724048.pdf;Healthy adults & PwPD;Overground walking;No;Passive electrodes;OMC;"1. EEG data recording using 32 Ag/AgCl electrodes positioned according to the International 10-20 system.
 2. Rejection of components exceeding a 90% probability of being eye, muscle, heart, line noise, and channel noise.
 3. Retention of brain-independent components with dipoles inside the head and a residual variance less than 15%.
 4. Segmentation of data into epochs around obstacle avoidance markers.
@@ -590,7 +590,7 @@ Young adults who improve performance during dual-task walking show more flexible
 8. Apply ICA decomposition matrices to lowpass-filtered data.
 9. Identify and reject artifactual ICs using the ICLabel algorithm.
 10. Back-project remaining ICs to the sensor space.";['Raw data', 'Notch filter', 'Downsample', 'Bad channel detection', 'Artifact Rejection', 'Re-reference', 'Bandpass filter', 'IC decomposition', 'IC rejection'];Bad channel removal, Bad channel interpolation;['ERD/ERS']
-Dynamics of brain-muscle networks reveal effects of age and somatosensory function on gait;Roeder, L., et al., 2024;PMC10897916.pdf;Healthy adults and People with Parkinson's disease;Overground walking;No;Not mentioned;Footswitches;"1. Normalize EEG data to unit variance.
+Dynamics of brain-muscle networks reveal effects of age and somatosensory function on gait;Roeder, L., et al., 2024;PMC10897916.pdf;Healthy adults & PwPD;Overground walking;No;Not mentioned;Footswitches;"1. Normalize EEG data to unit variance.
 2. Remove segments with excessive noise (large-amplitude movement artifacts, EMG activity).
 3. Exclude participants with excessive EEG artifacts.
 4. Band-pass filter EEG signals (2nd order Butterworth, 0.5-70 Hz).
