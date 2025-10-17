@@ -19,5 +19,5 @@ dir_fulltexts = define_dir(dir_results, "fulltexts")  # Full-text articles direc
 dir_researcharticles = define_dir(dir_results, "researcharticles")  # Research articles directory path
 dir_methods = define_dir(dir_results, "methods")  # Methods sections directory path
 dir_data = define_dir(dir_proj, "data") # Data directory path
-dir_processed = define_dir(dir_results, "cleanresults") # Processed data directory
+dir_cleancsv = define_dir(dir_data, "cleancsv") # Processed data directory
 dir_plots = define_dir(dir_proj, "plots")  # Directory for plots
