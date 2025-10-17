@@ -6,3 +6,4 @@ __pycache__
 # exclude folders
 logs/
 results/
+dataframe_plots.ipynb
